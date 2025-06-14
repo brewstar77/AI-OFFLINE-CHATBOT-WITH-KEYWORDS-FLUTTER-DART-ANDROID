@@ -1,0 +1,603 @@
+[
+  {
+        "question": "What is place value in large numbers?",
+        "answer": "Place value in large numbers refers to the position of each digit and its value based on its position. For example, in the number 23,456, the digit 2 is in the ten-thousands place, meaning it represents 20,000. Understanding place value helps us compare, order, and round numbers accurately."
+      },
+      {
+        "question": "How do we compare whole numbers?",
+        "answer": "To compare whole numbers, we look at the digits from left to right starting with the largest place value. The number with the larger digit in the leftmost place is the greater number. If the digits are the same, we compare the next digit, and so on."
+      },
+      {
+        "question": "What is a prime number?",
+        "answer": "A prime number is a number greater than 1 that has only two factors: 1 and itself. For example, 2, 3, 5, and 7 are prime numbers. They are important in multiplication and number patterns."
+      },
+      {
+        "question": "How do we add and subtract whole numbers?",
+        "answer": "We align the digits according to their place values and perform the addition or subtraction from right to left. It's important to regroup or borrow when necessary to ensure accuracy."
+      },
+      {
+        "question": "What are equivalent fractions?",
+        "answer": "Equivalent fractions are different fractions that have the same value. For example, 1/2 is the same as 2/4 or 4/8. We can find equivalent fractions by multiplying or dividing both the numerator and denominator by the same number."
+      },
+  {
+        "question": "What is a pattern in mathematics?",
+        "answer": "A pattern in mathematics is a repeated arrangement of numbers, shapes, or symbols that follows a rule. Identifying patterns helps us make predictions and understand relationships in numbers, such as even numbers increasing by 2 or sequences like 5, 10, 15, 20."
+      },
+      {
+        "question": "What are algebraic expressions?",
+        "answer": "Algebraic expressions are combinations of numbers, variables (like x or y), and operations (such as +, -, ×). For example, 3x + 2 is an algebraic expression. They are used to represent relationships and solve problems."
+      },
+      {
+        "question": "What is a variable?",
+        "answer": "A variable is a letter or symbol that stands for a number in algebra. It is used when the exact number is not known. For example, in the expression x + 5, x is the variable."
+      },
+      {
+        "question": "What is an equation?",
+        "answer": "An equation is a mathematical statement that shows that two expressions are equal. It always has an equal sign (=). For example, 2x + 3 = 7 is an equation. Solving it means finding the value of the variable that makes the statement true."
+
+  },
+  {
+        "question": "What are the properties of 2D shapes?",
+        "answer": "2D shapes are flat figures with length and width but no depth. Common properties include the number of sides, length of sides, and angles. For example, a square has 4 equal sides and 4 right angles."
+      },
+      {
+        "question": "How do we measure length and perimeter?",
+        "answer": "Length is the distance from one point to another and is measured in units like meters or centimeters. Perimeter is the total distance around a shape, found by adding the lengths of all its sides."
+      },
+      {
+        "question": "What is area?",
+        "answer": "Area is the amount of space inside a 2D shape. It is measured in square units like cm² or m². For example, the area of a rectangle is found by multiplying its length by its width."
+      },
+      {
+        "question": "What is the difference between perimeter and area?",
+        "answer": "Perimeter is the distance around a shape, while area is the space inside the shape. For example, a garden fence measures perimeter, but the land inside it is measured by area."
+      },
+      {
+        "question": "What are basic 3D shapes?",
+        "answer": "3D shapes have length, width, and height. Examples include cubes, spheres, cylinders, and cones. They have faces, edges, and vertices."
+  },
+  {
+        "question": "What is data handling?",
+        "answer": "Data handling involves collecting, organizing, and displaying data in charts or graphs to make it easy to understand. We use bar graphs, pictograms, and tables to represent information clearly."
+      },
+      {
+        "question": "How do we interpret bar graphs?",
+        "answer": "To interpret a bar graph, we look at the height of each bar and match it with the scale on the axis. Each bar shows the value or quantity for a category. It helps us answer questions like which is most or least popular."
+      },
+      {
+        "question": "What is probability?",
+        "answer": "Probability is the chance that something will happen. It can be described as certain, likely, unlikely, or impossible. For example, the chance of getting heads when flipping a coin is 1 out of 2."
+      },
+      {
+        "question": "How do we collect data for a survey?",
+        "answer": "We collect data by asking questions, observing, or measuring. For example, we might survey students to find their favorite fruits and record the results in a tally chart or table."
+  },
+    {
+      "question": "What is place value in large numbers?",
+      "answer": "Place value in large numbers refers to the position of each digit and its value based on its position. For example, in the number 23,456, the digit 2 is in the ten-thousands place, meaning it represents 20,000. Understanding place value helps us compare, order, and round numbers accurately."
+    },
+    {
+      "question": "How do we compare whole numbers?",
+      "answer": "To compare whole numbers, we look at the digits from left to right starting with the largest place value. The number with the larger digit in the leftmost place is the greater number. If the digits are the same, we compare the next digit, and so on."
+    },
+    {
+      "question": "What is a prime number?",
+      "answer": "A prime number is a number greater than 1 that has only two factors: 1 and itself. For example, 2, 3, 5, and 7 are prime numbers. They are important in multiplication and number patterns."
+    },
+    {
+      "question": "How do we add and subtract whole numbers?",
+      "answer": "We align the digits according to their place values and perform the addition or subtraction from right to left. It's important to regroup or borrow when necessary to ensure accuracy."
+    },
+    {
+      "question": "What are equivalent fractions?",
+      "answer": "Equivalent fractions are different fractions that have the same value. For example, 1/2 is the same as 2/4 or 4/8. We can find equivalent fractions by multiplying or dividing both the numerator and denominator by the same number."
+    },
+    {
+      "question": "What is a pattern in mathematics?",
+      "answer": "A pattern in mathematics is a repeated arrangement of numbers, shapes, or symbols that follows a rule. Identifying patterns helps us make predictions and understand relationships in numbers, such as even numbers increasing by 2 or sequences like 5, 10, 15, 20."
+    },
+    {
+      "question": "What are algebraic expressions?",
+      "answer": "Algebraic expressions are combinations of numbers, variables (like x or y), and operations (such as +, -, ×). For example, 3x + 2 is an algebraic expression. They are used to represent relationships and solve problems."
+    },
+    {
+      "question": "What is a variable?",
+      "answer": "A variable is a letter or symbol that stands for a number in algebra. It is used when the exact number is not known. For example, in the expression x + 5, x is the variable."
+    },
+    {
+      "question": "What is an equation?",
+      "answer": "An equation is a mathematical statement that shows that two expressions are equal. It always has an equal sign (=). For example, 2x + 3 = 7 is an equation. Solving it means finding the value of the variable that makes the statement true."
+    },
+    {
+      "question": "What are the properties of 2D shapes?",
+      "answer": "2D shapes are flat figures with length and width but no depth. Common properties include the number of sides, length of sides, and angles. For example, a square has 4 equal sides and 4 right angles."
+    },
+    {
+      "question": "How do we measure length and perimeter?",
+      "answer": "Length is the distance from one point to another and is measured in units like meters or centimeters. Perimeter is the total distance around a shape, found by adding the lengths of all its sides."
+    },
+    {
+      "question": "What is area?",
+      "answer": "Area is the amount of space inside a 2D shape. It is measured in square units like cm² or m². For example, the area of a rectangle is found by multiplying its length by its width."
+    },
+    {
+      "question": "What is the difference between perimeter and area?",
+      "answer": "Perimeter is the distance around a shape, while area is the space inside the shape. For example, a garden fence measures perimeter, but the land inside it is measured by area."
+    },
+    {
+      "question": "What are basic 3D shapes?",
+      "answer": "3D shapes have length, width, and height. Examples include cubes, spheres, cylinders, and cones. They have faces, edges, and vertices."
+    },
+    {
+      "question": "What is data handling?",
+      "answer": "Data handling involves collecting, organizing, and displaying data in charts or graphs to make it easy to understand. We use bar graphs, pictograms, and tables to represent information clearly."
+    },
+    {
+      "question": "How do we interpret bar graphs?",
+      "answer": "To interpret a bar graph, we look at the height of each bar and match it with the scale on the axis. Each bar shows the value or quantity for a category. It helps us answer questions like which is most or least popular."
+    },
+    {
+      "question": "What is probability?",
+      "answer": "Probability is the chance that something will happen. It can be described as certain, likely, unlikely, or impossible. For example, the chance of getting heads when flipping a coin is 1 out of 2."
+    },
+    {
+      "question": "How do we collect data for a survey?",
+      "answer": "We collect data by asking questions, observing, or measuring. For example, we might survey students to find their favorite fruits and record the results in a tally chart or table."
+    },
+    {
+      "question": "Practical: If a recipe calls for 250 grams of flour and you want to make half the recipe, how much flour do you need?",
+      "answer": "To find half the amount, you divide the original amount by 2.\nSolution: 250 grams / 2 = 125 grams.\nYou need 125 grams of flour."
+    },
+    {
+      "question": "Practical: You buy 3 notebooks at GHC 5 each and a pen for GHC 2. How much did you spend in total?",
+      "answer": "First, calculate the cost of the notebooks: 3 notebooks * GHC 5/notebook = GHC 15.\nThen, add the cost of the pen: GHC 15 + GHC 2 = GHC 17.\nSolution: You spent GHC 17 in total."
+    },
+    {
+      "question": "Practical: A bus travels 180 kilometers in 3 hours. What is its average speed in kilometers per hour?",
+      "answer": "Speed is calculated by dividing distance by time.\nSolution: Speed = Distance / Time = 180 km / 3 hours = 60 km/hour.\nThe average speed of the bus is 60 kilometers per hour."
+    },
+    {
+      "question": "Practical: If a T-shirt costs GHC 40 and it's on a 25% discount, how much is the discount and what is the new price?",
+      "answer": "First, calculate the discount amount: 25% of GHC 40 = (25/100) * 40 = 0.25 * 40 = GHC 10.\nThen, subtract the discount from the original price: GHC 40 - GHC 10 = GHC 30.\nSolution: The discount is GHC 10, and the new price is GHC 30."
+    },
+    {
+      "question": "Practical: You have 50 apples. You give 1/5 of them to your friend. How many apples do you have left?",
+      "answer": "First, find out how many apples you gave to your friend: (1/5) * 50 = 10 apples.\nThen, subtract the apples given away from the total: 50 - 10 = 40 apples.\nSolution: You have 40 apples left."
+    },
+    {
+      "question": "Practical: A pack of 12 pencils costs GHC 18. What is the cost of one pencil?",
+      "answer": "To find the cost of one pencil, divide the total cost by the number of pencils.\nSolution: GHC 18 / 12 pencils = GHC 1.50 per pencil.\nThe cost of one pencil is GHC 1.50."
+    },
+    {
+      "question": "Practical: If 'x' represents the number of books Kofi has, and Ama has 5 more books than Kofi, write an expression for the number of books Ama has.",
+      "answer": "Kofi has x books.\nAma has 5 more than Kofi, so Ama has x + 5 books.\nSolution: The expression for the number of books Ama has is x + 5."
+    },
+    {
+      "question": "Practical: Solve for y: 3y - 7 = 14",
+      "answer": "1. Add 7 to both sides of the equation: 3y - 7 + 7 = 14 + 7  =>  3y = 21.\n2. Divide both sides by 3: 3y / 3 = 21 / 3  =>  y = 7.\nSolution: y = 7."
+    },
+    {
+      "question": "Practical: A farmer has 'c' chickens and 'd' ducks. If the total number of birds is 75, write an equation to represent this.",
+      "answer": "The number of chickens is 'c'.\nThe number of ducks is 'd'.\nThe total number of birds is the sum of chickens and ducks.\nSolution: The equation is c + d = 75."
+    },
+    {
+      "question": "Practical: The length of a rectangle is twice its width. If the width is 'w' meters, what is the perimeter of the rectangle in terms of 'w'?",
+      "answer": "Width = w meters.\nLength = 2w meters (twice the width).\nPerimeter of a rectangle = 2 * (Length + Width).\nPerimeter = 2 * (2w + w) = 2 * (3w) = 6w meters.\nSolution: The perimeter is 6w meters."
+    },
+    {
+      "question": "Practical: A rectangular garden is 10 meters long and 5 meters wide. What is its area and perimeter?",
+      "answer": "Area of a rectangle = Length × Width.\nArea = 10 m × 5 m = 50 square meters (m²).\nPerimeter of a rectangle = 2 × (Length + Width).\nPerimeter = 2 × (10 m + 5 m) = 2 × 15 m = 30 meters.\nSolution: The area is 50 m², and the perimeter is 30 m."
+    },
+    {
+      "question": "Practical: A circular pond has a radius of 7 meters. What is its circumference? (Use π ≈ 22/7)",
+      "answer": "Circumference of a circle = 2 × π × radius.\nCircumference = 2 × (22/7) × 7 m = 2 × 22 m = 44 meters.\nSolution: The circumference is 44 meters."
+    },
+    {
+      "question": "Practical: A box has a length of 20 cm, a width of 10 cm, and a height of 5 cm. What is its volume?",
+      "answer": "Volume of a rectangular box (cuboid) = Length × Width × Height.\nVolume = 20 cm × 10 cm × 5 cm = 200 cm² × 5 cm = 1000 cubic centimeters (cm³).\nSolution: The volume is 1000 cm³."
+    },
+    {
+      "question": "Practical: If one angle of a triangle is 90° and another is 30°, what is the measure of the third angle?",
+      "answer": "The sum of angles in a triangle is always 180°.\nLet the third angle be x.\nSo, 90° + 30° + x = 180°.\n120° + x = 180°.\nx = 180° - 120° = 60°.\nSolution: The third angle is 60°."
+    },
+    {
+      "question": "Practical: The scores of 5 students in a quiz are: 7, 8, 5, 10, 5. What is the mean (average) score?",
+      "answer": "To find the mean, add all the scores and divide by the number of scores.\nSum of scores = 7 + 8 + 5 + 10 + 5 = 35.\nNumber of scores = 5.\nMean = 35 / 5 = 7.\nSolution: The mean score is 7."
+    },
+    {
+      "question": "Practical: What is the mode and median of the scores: 7, 8, 5, 10, 5?",
+      "answer": "First, arrange the scores in order: 5, 5, 7, 8, 10.\nMode: The number that appears most often. Here, 5 appears twice.\nMedian: The middle number when the data is ordered. Here, the middle number is 7.\nSolution: The mode is 5, and the median is 7."
+    },
+    {
+      "question": "Practical: A bag contains 3 red balls and 2 blue balls. What is the probability of picking a red ball at random?",
+      "answer": "Total number of balls = 3 red + 2 blue = 5 balls.\nNumber of red balls = 3.\nProbability of picking a red ball = (Number of red balls) / (Total number of balls) = 3/5.\nSolution: The probability of picking a red ball is 3/5."
+    },
+    {
+      "question": "Practical: If you flip a fair coin twice, what is the probability of getting two heads (HH)?",
+      "answer": "Possible outcomes when flipping a coin twice are: HH, HT, TH, TT (4 outcomes).\nThe event of getting two heads is HH (1 outcome).\nProbability (HH) = (Number of favorable outcomes) / (Total number of outcomes) = 1/4.\nSolution: The probability of getting two heads is 1/4."
+    },
+    {
+      "question": "What is the order of operations (BIDMAS/BODMAS/PEMDAS)?",
+      "answer": "The order of operations is a set of rules that dictates the sequence in which mathematical operations should be performed. It's often remembered by acronyms like BIDMAS/BODMAS (Brackets, Indices/Orders, Division, Multiplication, Addition, Subtraction) or PEMDAS (Parentheses, Exponents, Multiplication, Division, Addition, Subtraction). Multiplication and Division are done from left to right, and so are Addition and Subtraction."
+    },
+    {
+      "question": "Practical: Calculate 10 + 2 × 6 – 4 ÷ 2.",
+      "answer": "Using order of operations (BIDMAS/PEMDAS):\n1. Multiplication: 2 × 6 = 12\n2. Division: 4 ÷ 2 = 2\n   The expression becomes: 10 + 12 – 2\n3. Addition: 10 + 12 = 22\n4. Subtraction: 22 – 2 = 20\nSolution: 20"
+    },
+    {
+      "question": "How do you convert a fraction to a decimal?",
+      "answer": "To convert a fraction to a decimal, divide the numerator (top number) by the denominator (bottom number). For example, 3/4 = 3 ÷ 4 = 0.75."
+    },
+    {
+      "question": "Practical: Convert 2/5 to a decimal.",
+      "answer": "Divide the numerator by the denominator: 2 ÷ 5 = 0.4.\nSolution: 0.4"
+    },
+    {
+      "question": "How do you convert a decimal to a percentage?",
+      "answer": "To convert a decimal to a percentage, multiply the decimal by 100 and add the percent sign (%). For example, 0.75 = 0.75 × 100% = 75%."
+    },
+    {
+      "question": "Practical: Convert 0.65 to a percentage.",
+      "answer": "Multiply by 100: 0.65 × 100 = 65.\nAdd the percent sign.\nSolution: 65%"
+    },
+    {
+      "question": "How do you convert a percentage to a fraction?",
+      "answer": "To convert a percentage to a fraction, write the percentage as a fraction with a denominator of 100, then simplify if possible. For example, 50% = 50/100 = 1/2."
+    },
+    {
+      "question": "Practical: Convert 40% to a fraction in its simplest form.",
+      "answer": "Write as a fraction over 100: 40/100.\nSimplify by dividing both numerator and denominator by their greatest common divisor (which is 20): 40 ÷ 20 = 2, and 100 ÷ 20 = 5.\nSolution: 2/5"
+    },
+    {
+      "question": "What is an improper fraction and a mixed number? How do you convert between them?",
+      "answer": "An improper fraction is a fraction where the numerator is greater than or equal to the denominator (e.g., 7/3). A mixed number combines a whole number and a proper fraction (e.g., 2 1/3).\nTo convert an improper fraction to a mixed number: Divide the numerator by the denominator. The quotient is the whole number, the remainder is the new numerator, and the denominator stays the same (e.g., 7 ÷ 3 = 2 remainder 1, so 7/3 = 2 1/3).\nTo convert a mixed number to an improper fraction: Multiply the whole number by the denominator, add the numerator, and keep the same denominator (e.g., for 2 1/3: (2 × 3) + 1 = 7, so 2 1/3 = 7/3)."
+    },
+    {
+      "question": "Practical: Convert the improper fraction 11/4 to a mixed number.",
+      "answer": "Divide 11 by 4: 11 ÷ 4 = 2 with a remainder of 3.\nThe whole number is 2, the new numerator is 3, and the denominator is 4.\nSolution: 2 3/4"
+    },
+    {
+      "question": "Practical: Convert the mixed number 3 2/5 to an improper fraction.",
+      "answer": "Multiply the whole number by the denominator: 3 × 5 = 15.\nAdd the numerator: 15 + 2 = 17.\nKeep the same denominator.\nSolution: 17/5"
+    },
+    {
+      "question": "Practical: A shopkeeper buys a pen for GHC 2 and sells it for GHC 2.50. What is his profit?",
+      "answer": "Profit = Selling Price - Cost Price.\nProfit = GHC 2.50 - GHC 2.00 = GHC 0.50.\nSolution: His profit is GHC 0.50 (or 50 pesewas)."
+    },
+    {
+      "question": "Practical: If you save GHC 15 each week, how much will you save in 8 weeks?",
+      "answer": "Total savings = Amount saved per week × Number of weeks.\nTotal savings = GHC 15 × 8 = GHC 120.\nSolution: You will save GHC 120."
+    },
+    {
+      "question": "What is a ratio? How do you simplify a ratio?",
+      "answer": "A ratio compares two or more quantities. It can be written with a colon (e.g., 3:4) or as a fraction (e.g., 3/4). To simplify a ratio, divide all parts of the ratio by their greatest common divisor. For example, the ratio 6:9 can be simplified to 2:3 by dividing both parts by 3."
+    },
+    {
+      "question": "Practical: There are 10 boys and 15 girls in a class. What is the ratio of boys to girls in its simplest form?",
+      "answer": "The ratio of boys to girls is 10:15.\nTo simplify, find the greatest common divisor (GCD) of 10 and 15, which is 5.\nDivide both parts by 5: 10 ÷ 5 = 2, and 15 ÷ 5 = 3.\nSolution: The ratio of boys to girls is 2:3."
+    },
+    {
+      "question": "Practical: If the ratio of cement to sand in a mixture is 1:3 and you use 5 bags of cement, how many bags of sand do you need?",
+      "answer": "The ratio 1:3 means for every 1 part cement, you need 3 parts sand.\nIf you use 5 bags of cement (which is 5 × 1 part), then you need 5 × 3 parts of sand.\nBags of sand = 5 × 3 = 15 bags.\nSolution: You need 15 bags of sand."
+    },
+    {
+      "question": "What are coordinates on a Cartesian plane?",
+      "answer": "Coordinates are a pair of numbers (x, y) that describe the position of a point on a Cartesian plane (a grid with an x-axis and a y-axis). The first number (x-coordinate) tells you how far to move horizontally from the origin (0,0), and the second number (y-coordinate) tells you how far to move vertically."
+    },
+    {
+      "question": "Practical: Plot the point A (3, 4) on a Cartesian plane.",
+      "answer": "To plot A (3, 4):\n1. Start at the origin (0,0).\n2. Move 3 units to the right along the x-axis.\n3. From there, move 4 units up parallel to the y-axis.\n4. Mark this point as A."
+    },
+    {
+      "question": "Practical: A map has a scale of 1 cm : 10 km. If two towns are 5 cm apart on the map, what is the actual distance between them?",
+      "answer": "The scale means 1 cm on the map represents 10 km in reality.\nIf the distance on the map is 5 cm, the actual distance is 5 × 10 km.\nActual distance = 50 km.\nSolution: The actual distance between the towns is 50 km."
+    },
+    {
+      "question": "What is the difference between an acute, obtuse, and right angle?",
+      "answer": "An **acute angle** measures less than 90 degrees.\nA **right angle** measures exactly 90 degrees.\nAn **obtuse angle** measures more than 90 degrees but less than 180 degrees."
+    },
+    {
+      "question": "Practical: If you leave home at 7:45 AM and arrive at school at 8:20 AM, how long did your journey take?",
+      "answer": "From 7:45 AM to 8:00 AM is 15 minutes.\nFrom 8:00 AM to 8:20 AM is 20 minutes.\nTotal time = 15 minutes + 20 minutes = 35 minutes.\nSolution: Your journey took 35 minutes."
+    },
+    {
+      "question": "Practical: A movie starts at 2:30 PM and lasts for 1 hour and 45 minutes. What time does it end?",
+      "answer": "Add 1 hour to 2:30 PM, which is 3:30 PM.\nThen add 45 minutes to 3:30 PM:\n3:30 PM + 30 minutes = 4:00 PM.\nRemaining 15 minutes (45 - 30 = 15).\n4:00 PM + 15 minutes = 4:15 PM.\nSolution: The movie ends at 4:15 PM."
+    },
+    {
+      "question": "Practical: You want to buy a chocolate bar that costs GHC 3.50. You have GHC 2.75. How much more money do you need?",
+      "answer": "Money needed = Cost of chocolate bar - Money you have.\nMoney needed = GHC 3.50 - GHC 2.75 = GHC 0.75.\nSolution: You need GHC 0.75 (or 75 pesewas) more."
+    },
+    {
+      "question": "What is a factor of a number? What is a multiple of a number?",
+      "answer": "A **factor** of a number is a whole number that divides exactly into that number without leaving a remainder (e.g., factors of 12 are 1, 2, 3, 4, 6, 12).\nA **multiple** of a number is the result of multiplying that number by any whole number (e.g., multiples of 3 are 3, 6, 9, 12, ...)."
+    },
+    {
+      "question": "Practical: List all the factors of 20.",
+      "answer": "Factors are numbers that divide 20 exactly:\n1 × 20 = 20\n2 × 10 = 20\n4 × 5 = 20\nSolution: The factors of 20 are 1, 2, 4, 5, 10, and 20."
+    },
+    {
+      "question": "Practical: List the first five multiples of 7.",
+      "answer": "Multiples are found by multiplying 7 by whole numbers:\n7 × 1 = 7\n7 × 2 = 14\n7 × 3 = 21\n7 × 4 = 28\n7 × 5 = 35\nSolution: The first five multiples of 7 are 7, 14, 21, 28, and 35."
+    },
+    {
+      "question": "Practical: Solve for x: x/4 = 5",
+      "answer": "To isolate x, multiply both sides of the equation by 4:\n(x/4) * 4 = 5 * 4\nx = 20\nSolution: x = 20"
+    },
+    {
+      "question": "Practical: If an item costs GHC 50 plus 15% VAT (Value Added Tax), what is the total cost?",
+      "answer": "Calculate the VAT amount: 15% of GHC 50 = (15/100) * 50 = 0.15 * 50 = GHC 7.50.\nAdd the VAT to the original price: GHC 50 + GHC 7.50 = GHC 57.50.\nSolution: The total cost is GHC 57.50."
+    },
+    {
+      "question": "What is place value in large numbers?",
+      "answer": "Place value in large numbers refers to the position of each digit and its value based on its position. For example, in the number 23,456, the digit 2 is in the ten-thousands place, meaning it represents 20,000. Understanding place value helps us compare, order, and round numbers accurately."
+    },
+    {
+      "question": "How do we compare whole numbers?",
+      "answer": "To compare whole numbers, we look at the digits from left to right starting with the largest place value. The number with the larger digit in the leftmost place is the greater number. If the digits are the same, we compare the next digit, and so on. For example, to compare 567 and 571, we see the hundreds digit (5) is the same. Then we compare the tens digit: 6 in 567 and 7 in 571. Since 7 is greater than 6, 571 is greater than 567."
+    },
+    {
+      "question": "What is a prime number?",
+      "answer": "A prime number is a number greater than 1 that has only two factors: 1 and itself. For example, 2, 3, 5, and 7 are prime numbers because they can only be divided evenly by 1 and themselves. The number 4 is not prime because it has factors 1, 2, and 4."
+    },
+    {
+      "question": "How do we add and subtract whole numbers?",
+      "answer": "We align the digits according to their place values (ones, tens, hundreds, etc.) and perform the addition or subtraction from right to left (starting with the ones place). It's important to regroup (carry over in addition) or borrow (in subtraction) when necessary to ensure accuracy. For example, to add 125 + 38: \n  125\n+  38\n-----\n  163 (5+8=13, write 3, carry 1; 1+2+3=6; 1=1)."
+    },
+    {
+      "question": "What are equivalent fractions?",
+      "answer": "Equivalent fractions are different fractions that represent the same amount or value. For example, 1/2 is the same as 2/4 or 4/8. We can find equivalent fractions by multiplying or dividing both the numerator (top number) and the denominator (bottom number) by the same non-zero number. For instance, to get an equivalent fraction for 1/2, multiply numerator and denominator by 3: (1×3)/(2×3) = 3/6. So, 1/2 and 3/6 are equivalent."
+    },
+    {
+      "question": "What is a pattern in mathematics?",
+      "answer": "A pattern in mathematics is a repeated arrangement of numbers, shapes, or symbols that follows a specific rule. Identifying patterns helps us make predictions and understand relationships. For example, in the sequence 2, 4, 6, 8, ..., the pattern is 'add 2 to the previous number'. A shape pattern could be Circle, Square, Triangle, Circle, Square, Triangle, ..."
+    },
+    {
+      "question": "What are algebraic expressions?",
+      "answer": "Algebraic expressions are combinations of numbers, variables (letters like x or y that represent unknown values), and mathematical operations (such as +, -, ×, ÷). For example, 3x + 2 is an algebraic expression. It doesn't have an equal sign, so it cannot be 'solved' but it can be evaluated if the value of the variable is known."
+    },
+    {
+      "question": "What is a variable?",
+      "answer": "A variable is a letter or symbol that stands for an unknown number or a quantity that can change in an algebraic expression or equation. For example, in the expression x + 5, 'x' is the variable. If we say 'Let 'n' be the number of students in a class,' then 'n' is a variable because it can represent different numbers for different classes."
+    },
+    {
+      "question": "What is an equation?",
+      "answer": "An equation is a mathematical statement that shows that two expressions are equal. It always contains an equal sign (=). For example, 2x + 3 = 7 is an equation. Solving an equation means finding the value(s) of the variable(s) that make the statement true (in this case, x=2)."
+    },
+    {
+      "question": "What are the properties of 2D shapes?",
+      "answer": "2D shapes (two-dimensional shapes) are flat figures that have length and width but no depth. Common properties include the number of sides, length of sides, number of angles (vertices), and types of angles. For example, a square has 4 equal sides and 4 right angles (90 degrees). A triangle has 3 sides and 3 angles."
+    },
+    {
+      "question": "How do we measure length and perimeter?",
+      "answer": "Length is the measurement of the distance from one point to another and is measured in units like meters (m), centimeters (cm), or millimeters (mm). Perimeter is the total distance around the outside of a 2D shape, found by adding the lengths of all its sides. For example, if a rectangle has sides of 5 cm and 3 cm, its perimeter is 5 cm + 3 cm + 5 cm + 3 cm = 16 cm."
+    },
+    {
+      "question": "What is area?",
+      "answer": "Area is the amount of surface space inside a 2D shape. It is measured in square units, such as square centimeters (cm²), square meters (m²), or square kilometers (km²). For example, if a rectangle has a length of 5 cm and a width of 3 cm, its area is Length × Width = 5 cm × 3 cm = 15 cm²."
+    },
+    {
+      "question": "What is the difference between perimeter and area?",
+      "answer": "Perimeter is the distance around the outside of a 2D shape (like a fence around a garden), measured in linear units (e.g., meters). Area is the space inside that shape (like the amount of grass needed for the garden), measured in square units (e.g., square meters). A shape can have the same perimeter as another but a different area, and vice-versa."
+    },
+    {
+      "question": "What are basic 3D shapes?",
+      "answer": "3D shapes (three-dimensional shapes) have length, width, and height (or depth). Examples include cubes (like a dice), spheres (like a ball), cylinders (like a can of food), cones (like an ice cream cone), and pyramids. They have faces (flat surfaces), edges (where faces meet), and vertices (corners where edges meet)."
+    },
+    {
+      "question": "What is data handling?",
+      "answer": "Data handling (or data analysis) is the process of collecting, organizing, representing, and interpreting data to get meaningful information. This often involves using tools like tally charts to collect data, tables to organize it, and graphs (like bar graphs or pie charts) to display it visually. For example, collecting data on students' favorite colors and then making a bar graph to show the results."
+    },
+    {
+      "question": "How do we interpret bar graphs?",
+      "answer": "To interpret a bar graph, you look at the title (to see what data is being shown), the labels on the axes (to understand the categories and the scale/units), and the height or length of the bars (which represents the quantity or frequency for each category). For example, if a bar graph shows 'Number of Students' on the y-axis and 'Favorite Sports' on the x-axis, the tallest bar would indicate the most popular sport."
+    },
+    {
+      "question": "What is probability?",
+      "answer": "Probability is a measure of how likely an event is to happen. It is expressed as a number between 0 and 1 (or as a percentage between 0% and 100%). A probability of 0 means the event is impossible (e.g., rolling a 7 on a standard six-sided die). A probability of 1 means the event is certain (e.g., the sun rising in the east). For example, the probability of flipping a fair coin and getting heads is 1/2 or 0.5 or 50%."
+    },
+    {
+      "question": "How do we collect data for a survey?",
+      "answer": "We collect data for a survey by asking questions (using questionnaires or interviews), making observations, or conducting experiments. For example, to find out the most popular subject in a class, you could create a short questionnaire asking students to choose their favorite subject from a list. The responses are then collected and tallied."
+    },
+    {
+      "question": "Practical: If a recipe calls for 250 grams of flour and you want to make half the recipe, how much flour do you need?",
+      "answer": "To find half the amount, you divide the original amount by 2.\nSolution: 250 grams / 2 = 125 grams.\nYou need 125 grams of flour."
+    },
+    {
+      "question": "Practical: You buy 3 notebooks at GHC 5 each and a pen for GHC 2. How much did you spend in total?",
+      "answer": "First, calculate the cost of the notebooks: 3 notebooks * GHC 5/notebook = GHC 15.\nThen, add the cost of the pen: GHC 15 + GHC 2 = GHC 17.\nSolution: You spent GHC 17 in total."
+    },
+    {
+      "question": "Practical: A bus travels 180 kilometers in 3 hours. What is its average speed in kilometers per hour?",
+      "answer": "Speed is calculated by dividing distance by time.\nSolution: Speed = Distance / Time = 180 km / 3 hours = 60 km/hour.\nThe average speed of the bus is 60 kilometers per hour."
+    },
+    {
+      "question": "Practical: If a T-shirt costs GHC 40 and it's on a 25% discount, how much is the discount and what is the new price?",
+      "answer": "First, calculate the discount amount: 25% of GHC 40 = (25/100) * 40 = 0.25 * 40 = GHC 10.\nThen, subtract the discount from the original price: GHC 40 - GHC 10 = GHC 30.\nSolution: The discount is GHC 10, and the new price is GHC 30."
+    },
+    {
+      "question": "Practical: You have 50 apples. You give 1/5 of them to your friend. How many apples do you have left?",
+      "answer": "First, find out how many apples you gave to your friend: (1/5) * 50 = 50 ÷ 5 = 10 apples.\nThen, subtract the apples given away from the total: 50 - 10 = 40 apples.\nSolution: You have 40 apples left."
+    },
+    {
+      "question": "Practical: A pack of 12 pencils costs GHC 18. What is the cost of one pencil?",
+      "answer": "To find the cost of one pencil, divide the total cost by the number of pencils.\nSolution: GHC 18 / 12 pencils = GHC 1.50 per pencil.\nThe cost of one pencil is GHC 1.50."
+    },
+    {
+      "question": "Practical: If 'x' represents the number of books Kofi has, and Ama has 5 more books than Kofi, write an expression for the number of books Ama has.",
+      "answer": "Kofi has x books.\nAma has 5 more than Kofi, so Ama has x + 5 books.\nSolution: The expression for the number of books Ama has is x + 5."
+    },
+    {
+      "question": "Practical: Solve for y: 3y - 7 = 14",
+      "answer": "1. Add 7 to both sides of the equation: 3y - 7 + 7 = 14 + 7  =>  3y = 21.\n2. Divide both sides by 3: 3y / 3 = 21 / 3  =>  y = 7.\nSolution: y = 7."
+    },
+    {
+      "question": "Practical: A farmer has 'c' chickens and 'd' ducks. If the total number of birds is 75, write an equation to represent this.",
+      "answer": "The number of chickens is 'c'.\nThe number of ducks is 'd'.\nThe total number of birds is the sum of chickens and ducks.\nSolution: The equation is c + d = 75."
+    },
+    {
+      "question": "Practical: The length of a rectangle is twice its width. If the width is 'w' meters, what is the perimeter of the rectangle in terms of 'w'?",
+      "answer": "Width = w meters.\nLength = 2w meters (twice the width).\nPerimeter of a rectangle = 2 * (Length + Width).\nPerimeter = 2 * (2w + w) = 2 * (3w) = 6w meters.\nSolution: The perimeter is 6w meters."
+    },
+    {
+      "question": "Practical: A rectangular garden is 10 meters long and 5 meters wide. What is its area and perimeter?",
+      "answer": "Area of a rectangle = Length × Width.\nArea = 10 m × 5 m = 50 square meters (m²).\nPerimeter of a rectangle = 2 × (Length + Width).\nPerimeter = 2 × (10 m + 5 m) = 2 × 15 m = 30 meters.\nSolution: The area is 50 m², and the perimeter is 30 m."
+    },
+    {
+      "question": "Practical: A circular pond has a radius of 7 meters. What is its circumference? (Use π ≈ 22/7)",
+      "answer": "Circumference of a circle = 2 × π × radius.\nCircumference = 2 × (22/7) × 7 m = 2 × 22 m = 44 meters.\nSolution: The circumference is 44 meters."
+    },
+    {
+      "question": "Practical: A box has a length of 20 cm, a width of 10 cm, and a height of 5 cm. What is its volume?",
+      "answer": "Volume of a rectangular box (cuboid) = Length × Width × Height.\nVolume = 20 cm × 10 cm × 5 cm = 200 cm² × 5 cm = 1000 cubic centimeters (cm³).\nSolution: The volume is 1000 cm³."
+    },
+    {
+      "question": "Practical: If one angle of a triangle is 90° and another is 30°, what is the measure of the third angle?",
+      "answer": "The sum of angles in a triangle is always 180°.\nLet the third angle be x.\nSo, 90° + 30° + x = 180°.\n120° + x = 180°.\nx = 180° - 120° = 60°.\nSolution: The third angle is 60°."
+    },
+    {
+      "question": "Practical: The scores of 5 students in a quiz are: 7, 8, 5, 10, 5. What is the mean (average) score?",
+      "answer": "To find the mean, add all the scores and divide by the number of scores.\nSum of scores = 7 + 8 + 5 + 10 + 5 = 35.\nNumber of scores = 5.\nMean = 35 / 5 = 7.\nSolution: The mean score is 7."
+    },
+    {
+      "question": "Practical: What is the mode and median of the scores: 7, 8, 5, 10, 5?",
+      "answer": "First, arrange the scores in order: 5, 5, 7, 8, 10.\nMode: The number that appears most often. Here, 5 appears twice.\nMedian: The middle number when the data is ordered. Here, the middle number is 7.\nSolution: The mode is 5, and the median is 7."
+    },
+    {
+      "question": "Practical: A bag contains 3 red balls and 2 blue balls. What is the probability of picking a red ball at random?",
+      "answer": "Total number of balls = 3 red + 2 blue = 5 balls.\nNumber of red balls = 3.\nProbability of picking a red ball = (Number of red balls) / (Total number of balls) = 3/5.\nSolution: The probability of picking a red ball is 3/5."
+    },
+    {
+      "question": "Practical: If you flip a fair coin twice, what is the probability of getting two heads (HH)?",
+      "answer": "Possible outcomes when flipping a coin twice are: HH, HT, TH, TT (4 outcomes).\nThe event of getting two heads is HH (1 outcome).\nProbability (HH) = (Number of favorable outcomes) / (Total number of outcomes) = 1/4.\nSolution: The probability of getting two heads is 1/4."
+    },
+    {
+      "question": "What is the order of operations (BIDMAS/BODMAS/PEMDAS)?",
+      "answer": "The order of operations is a set of rules that dictates the sequence in which mathematical operations should be performed. It's often remembered by acronyms like BIDMAS/BODMAS (Brackets, Indices/Orders, Division, Multiplication, Addition, Subtraction) or PEMDAS (Parentheses, Exponents, Multiplication, Division, Addition, Subtraction). Multiplication and Division are done from left to right, and so are Addition and Subtraction. For example, in 5 + 2 × 3, you multiply 2 × 3 first (equals 6), then add 5 (equals 11)."
+    },
+    {
+      "question": "Practical: Calculate 10 + 2 × 6 – 4 ÷ 2.",
+      "answer": "Using order of operations (BIDMAS/PEMDAS):\n1. Multiplication: 2 × 6 = 12\n2. Division: 4 ÷ 2 = 2\n   The expression becomes: 10 + 12 – 2\n3. Addition: 10 + 12 = 22\n4. Subtraction: 22 – 2 = 20\nSolution: 20"
+    },
+    {
+      "question": "How do you convert a fraction to a decimal?",
+      "answer": "To convert a fraction to a decimal, divide the numerator (top number) by the denominator (bottom number). For example, 3/4 = 3 ÷ 4 = 0.75. Another example: 1/2 = 1 ÷ 2 = 0.5."
+    },
+    {
+      "question": "Practical: Convert 2/5 to a decimal.",
+      "answer": "Divide the numerator by the denominator: 2 ÷ 5 = 0.4.\nSolution: 0.4"
+    },
+    {
+      "question": "How do you convert a decimal to a percentage?",
+      "answer": "To convert a decimal to a percentage, multiply the decimal by 100 and add the percent sign (%). For example, 0.75 = 0.75 × 100% = 75%. Another example: 0.2 = 0.2 × 100% = 20%."
+    },
+    {
+      "question": "Practical: Convert 0.65 to a percentage.",
+      "answer": "Multiply by 100: 0.65 × 100 = 65.\nAdd the percent sign.\nSolution: 65%"
+    },
+    {
+      "question": "How do you convert a percentage to a fraction?",
+      "answer": "To convert a percentage to a fraction, write the percentage as a fraction with a denominator of 100, then simplify if possible. For example, 50% = 50/100, which simplifies to 1/2. Another example: 25% = 25/100, which simplifies to 1/4."
+    },
+    {
+      "question": "Practical: Convert 40% to a fraction in its simplest form.",
+      "answer": "Write as a fraction over 100: 40/100.\nSimplify by dividing both numerator and denominator by their greatest common divisor (which is 20): 40 ÷ 20 = 2, and 100 ÷ 20 = 5.\nSolution: 2/5"
+    },
+    {
+      "question": "What is an improper fraction and a mixed number? How do you convert between them?",
+      "answer": "An **improper fraction** is a fraction where the numerator is greater than or equal to the denominator (e.g., 7/3, 5/5). A **mixed number** combines a whole number and a proper fraction (e.g., 2 1/3).\n**To convert an improper fraction to a mixed number:** Divide the numerator by the denominator. The quotient is the whole number, the remainder is the new numerator, and the denominator stays the same (e.g., for 7/3: 7 ÷ 3 = 2 with a remainder of 1, so 7/3 = 2 1/3).\n**To convert a mixed number to an improper fraction:** Multiply the whole number by the denominator, add the numerator, and keep the same denominator (e.g., for 2 1/3: (2 × 3) + 1 = 7, so 2 1/3 = 7/3)."
+    },
+    {
+      "question": "Practical: Convert the improper fraction 11/4 to a mixed number.",
+      "answer": "Divide 11 by 4: 11 ÷ 4 = 2 with a remainder of 3.\nThe whole number is 2, the new numerator is 3, and the denominator is 4.\nSolution: 2 3/4"
+    },
+    {
+      "question": "Practical: Convert the mixed number 3 2/5 to an improper fraction.",
+      "answer": "Multiply the whole number by the denominator: 3 × 5 = 15.\nAdd the numerator: 15 + 2 = 17.\nKeep the same denominator.\nSolution: 17/5"
+    },
+    {
+      "question": "Practical: A shopkeeper buys a pen for GHC 2 and sells it for GHC 2.50. What is his profit?",
+      "answer": "Profit = Selling Price - Cost Price.\nProfit = GHC 2.50 - GHC 2.00 = GHC 0.50.\nSolution: His profit is GHC 0.50 (or 50 pesewas)."
+    },
+    {
+      "question": "Practical: If you save GHC 15 each week, how much will you save in 8 weeks?",
+      "answer": "Total savings = Amount saved per week × Number of weeks.\nTotal savings = GHC 15 × 8 = GHC 120.\nSolution: You will save GHC 120."
+    },
+    {
+      "question": "What is a ratio? How do you simplify a ratio?",
+      "answer": "A ratio compares two or more quantities of the same unit. It can be written with a colon (e.g., 3:4) or as a fraction (e.g., 3/4). To simplify a ratio, divide all parts of the ratio by their greatest common divisor (GCD). For example, the ratio 6:9 can be simplified to 2:3 by dividing both parts by their GCD, which is 3."
+    },
+    {
+      "question": "Practical: There are 10 boys and 15 girls in a class. What is the ratio of boys to girls in its simplest form?",
+      "answer": "The ratio of boys to girls is 10:15.\nTo simplify, find the greatest common divisor (GCD) of 10 and 15, which is 5.\nDivide both parts by 5: 10 ÷ 5 = 2, and 15 ÷ 5 = 3.\nSolution: The ratio of boys to girls is 2:3."
+    },
+    {
+      "question": "Practical: If the ratio of cement to sand in a mixture is 1:3 and you use 5 bags of cement, how many bags of sand do you need?",
+      "answer": "The ratio 1:3 means for every 1 part cement, you need 3 parts sand.\nIf you use 5 bags of cement (which corresponds to the '1 part' in the ratio, scaled up by 5), then you need to scale up the sand part by the same factor (5).\nBags of sand = 5 × 3 = 15 bags.\nSolution: You need 15 bags of sand."
+    },
+    {
+      "question": "What are coordinates on a Cartesian plane?",
+      "answer": "Coordinates are a pair of numbers, written as (x, y), that describe the exact position of a point on a Cartesian plane (a grid with a horizontal x-axis and a vertical y-axis). The first number (x-coordinate or abscissa) tells you how far to move horizontally from the origin (0,0), and the second number (y-coordinate or ordinate) tells you how far to move vertically from the origin. For example, the point (2,3) is 2 units to the right and 3 units up from the origin."
+    },
+    {
+      "question": "Practical: Plot the point A (3, 4) on a Cartesian plane.",
+      "answer": "To plot A (3, 4):\n1. Start at the origin (0,0), where the x-axis and y-axis intersect.\n2. The x-coordinate is 3, so move 3 units to the right along the x-axis.\n3. The y-coordinate is 4, so from that position on the x-axis, move 4 units up parallel to the y-axis.\n4. Mark this point. This is point A (3,4)."
+    },
+    {
+      "question": "Practical: A map has a scale of 1 cm : 10 km. If two towns are 5 cm apart on the map, what is the actual distance between them?",
+      "answer": "The scale means that 1 centimeter on the map represents 10 kilometers in real life.\nIf the distance on the map is 5 cm, then the actual distance is 5 times the real-life distance represented by 1 cm.\nActual distance = 5 × 10 km = 50 km.\nSolution: The actual distance between the towns is 50 km."
+    },
+    {
+      "question": "What is the difference between an acute, obtuse, and right angle?",
+      "answer": "An **acute angle** is an angle that measures less than 90 degrees (e.g., 30°, 60°).\nA **right angle** is an angle that measures exactly 90 degrees (it looks like the corner of a square).\nAn **obtuse angle** is an angle that measures more than 90 degrees but less than 180 degrees (e.g., 110°, 150°)."
+    },
+    {
+      "question": "Practical: If you leave home at 7:45 AM and arrive at school at 8:20 AM, how long did your journey take?",
+      "answer": "From 7:45 AM to 8:00 AM is 15 minutes.\nFrom 8:00 AM to 8:20 AM is 20 minutes.\nTotal time = 15 minutes + 20 minutes = 35 minutes.\nSolution: Your journey took 35 minutes."
+    },
+    {
+      "question": "Practical: A movie starts at 2:30 PM and lasts for 1 hour and 45 minutes. What time does it end?",
+      "answer": "First, add the hour: 2:30 PM + 1 hour = 3:30 PM.\nNext, add the 45 minutes to 3:30 PM:\n3:30 PM + 30 minutes = 4:00 PM.\nThere are still 15 minutes left from the 45 minutes (45 - 30 = 15).\n4:00 PM + 15 minutes = 4:15 PM.\nSolution: The movie ends at 4:15 PM."
+    },
+    {
+      "question": "Practical: You want to buy a chocolate bar that costs GHC 3.50. You have GHC 2.75. How much more money do you need?",
+      "answer": "Money needed = Cost of chocolate bar - Money you have.\nMoney needed = GHC 3.50 - GHC 2.75 = GHC 0.75.\nSolution: You need GHC 0.75 (or 75 pesewas) more."
+    },
+    {
+      "question": "What is a factor of a number? What is a multiple of a number?",
+      "answer": "A **factor** of a number is a whole number that divides exactly into that number without leaving a remainder. For example, the factors of 12 are 1, 2, 3, 4, 6, and 12 because each of these numbers can divide 12 without a remainder.\nA **multiple** of a number is the result of multiplying that number by any whole number (1, 2, 3, etc.). For example, multiples of 3 are 3 (3×1), 6 (3×2), 9 (3×3), 12 (3×4), and so on."
+    },
+    {
+      "question": "Practical: List all the factors of 20.",
+      "answer": "Factors are numbers that divide 20 exactly. We can find them by thinking of pairs of numbers that multiply to 20:\n1 × 20 = 20\n2 × 10 = 20\n4 × 5 = 20\nSolution: The factors of 20 are 1, 2, 4, 5, 10, and 20."
+    },
+    {
+      "question": "Practical: List the first five multiples of 7.",
+      "answer": "Multiples are found by multiplying 7 by whole numbers starting from 1:\n7 × 1 = 7\n7 × 2 = 14\n7 × 3 = 21\n7 × 4 = 28\n7 × 5 = 35\nSolution: The first five multiples of 7 are 7, 14, 21, 28, and 35."
+    },
+    {
+      "question": "Practical: Solve for x: x/4 = 5",
+      "answer": "To isolate x (get x by itself), we need to undo the division by 4. We do this by multiplying both sides of the equation by 4:\n(x/4) * 4 = 5 * 4\nx = 20\nSolution: x = 20"
+    },
+    {
+      "question": "Practical: If an item costs GHC 50 plus 15% VAT (Value Added Tax), what is the total cost?",
+      "answer": "First, calculate the VAT amount: 15% of GHC 50 = (15/100) * 50 = 0.15 * 50 = GHC 7.50.\nThen, add the VAT amount to the original price: GHC 50 + GHC 7.50 = GHC 57.50.\nSolution: The total cost is GHC 57.50."
+    },
+    {
+      "question": "Practical: What is the simple interest on GHC 200 for 2 years at an interest rate of 5% per year?",
+      "answer": "Simple Interest (I) = Principal (P) × Rate (R) × Time (T).\nHere, P = GHC 200, R = 5% = 5/100 = 0.05, T = 2 years.\nI = 200 × 0.05 × 2\nI = 10 × 2\nI = GHC 20\nSolution: The simple interest is GHC 20."
+    },
+    {
+      "question": "Practical: A car uses 1 litre of petrol to travel 12 km. How many litres will it use to travel 60 km?",
+      "answer": "Find out how many sets of 12 km are in 60 km: 60 km ÷ 12 km/litre = 5.\nSince each set of 12 km uses 1 litre, for 5 sets, it will use 5 × 1 litre.\nSolution: The car will use 5 litres of petrol."
+    },
+    {
+      "question": "Practical: If 3 apples cost GHC 4.50, what is the cost of 5 apples?",
+      "answer": "First, find the cost of one apple: GHC 4.50 ÷ 3 apples = GHC 1.50 per apple.\nThen, multiply the cost of one apple by the desired number of apples: GHC 1.50 × 5 = GHC 7.50.\nSolution: The cost of 5 apples is GHC 7.50."
+    },
+    {
+      "question": "What is rounding numbers? How do you round 78 to the nearest ten?",
+      "answer": "Rounding numbers means making a number simpler while keeping its value close to what it was. The result is less exact, but easier to use.\nTo round 78 to the nearest ten:\n1. Identify the tens digit (7, which means 70).\n2. Look at the next digit to the right (the ones digit, which is 8).\n3. If this digit is 5 or more, round up the tens digit. If it's 4 or less, keep the tens digit the same.\nSince 8 is 5 or more, we round up the 7 to 8. So, 78 rounds up to 80.\nSolution: 78 rounded to the nearest,"
+    }
+  ]
