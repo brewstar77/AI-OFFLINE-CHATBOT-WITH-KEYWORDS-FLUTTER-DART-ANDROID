@@ -1,0 +1,552 @@
+[
+  {
+    "questionText": "Choose the correct pronoun: Ama said that ___ would visit her grandmother.",
+    "options": [
+      "her",
+      "she",
+      "herself",
+      "he"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "Which of these words is a VERB?",
+    "options": [
+      "Quickly",
+      "Beautiful",
+      "Singing",
+      "Happiness"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "Identify the ADJECTIVE in the sentence: 'The tall man wore a blue shirt.'",
+    "options": [
+      "man",
+      "wore",
+      "tall",
+      "shirt"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "What is the plural form of 'leaf'?",
+    "options": [
+      "Leafs",
+      "Leaves",
+      "Leafies",
+      "Leaven"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "Choose the correct tense: Yesterday, we _______ football in the park.",
+    "options": [
+      "play",
+      "plays",
+      "played",
+      "playing"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "A story that is not real and is made up is called:",
+    "options": [
+      "Biography",
+      "Fiction",
+      "History",
+      "Autobiography"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "Which punctuation mark is used to show possession, like 'Kofi's book'?",
+    "options": [
+      ". (Period)",
+      ", (Comma)",
+      "? (Question Mark)",
+      "' (Apostrophe)"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "What is a synonym for 'big'?",
+    "options": [
+      "Small",
+      "Tiny",
+      "Large",
+      "Short"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "What is an antonym for 'happy'?",
+    "options": [
+      "Joyful",
+      "Glad",
+      "Sad",
+      "Cheerful"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "Which sentence is correctly punctuated?",
+    "options": [
+      "where are you going.",
+      "Where are you going?",
+      "Where are you going.",
+      "Where are you going,"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "The main character in a story is often called the:",
+    "options": [
+      "Antagonist",
+      "Setting",
+      "Protagonist",
+      "Narrator"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "A word that describes HOW an action is done is an:",
+    "options": [
+      "Adjective",
+      "Noun",
+      "Verb",
+      "Adverb"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "Choose the correct form: 'The dogs ___ barking loudly.'",
+    "options": [
+      "is",
+      "are",
+      "was",
+      "be"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "What type of letter would you write to apply for a job?",
+    "options": [
+      "Informal Letter",
+      "Friendly Letter",
+      "Formal Letter",
+      "Note"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "The phrase 'as brave as a lion' is an example of a:",
+    "options": [
+      "Metaphor",
+      "Simile",
+      "Personification",
+      "Alliteration"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "Which word means 'a place where books are kept for reading or borrowing'?",
+    "options": [
+      "Market",
+      "Hospital",
+      "Library",
+      "School"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "Identify the PREPOSITION: 'The cat jumped ___ the table.'",
+    "options": [
+      "cat",
+      "jumped",
+      "the",
+      "onto"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "What is the past tense of the verb 'go'?",
+    "options": [
+      "Goed",
+      "Gone",
+      "Went",
+      "Going"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "A paragraph should usually focus on:",
+    "options": [
+      "Many different ideas",
+      "One main idea",
+      "No specific idea",
+      "A list of words"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "The person who tells the story is called the:",
+    "options": [
+      "Author",
+      "Character",
+      "Narrator",
+      "Publisher"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "Which of these is a command or an instruction?",
+    "options": [
+      "The sky is blue.",
+      "Are you coming?",
+      "Close the door.",
+      "What a beautiful day!"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "The words 'there', 'their', and 'they're' are examples of:",
+    "options": [
+      "Synonyms",
+      "Antonyms",
+      "Homophones",
+      "Adjectives"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "In the sentence, 'She quickly ate her lunch,' which word is an ADVERB?",
+    "options": [
+      "She",
+      "quickly",
+      "ate",
+      "lunch"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "Which of the following is a collective noun?",
+    "options": [
+      "Dog",
+      "Tree",
+      "Flock",
+      "Student"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "The comparison of two unlike things using 'like' or 'as' is called:",
+    "options": [
+      "Metaphor",
+      "Simile",
+      "Personification",
+      "Hyperbole"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "Select the correct subject-verb agreement: 'Either Kofi or his friends ___ responsible.'",
+    "options": [
+      "is",
+      "are",
+      "was",
+      "be"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "A word that joins words, phrases, or clauses is a/an:",
+    "options": [
+      "Preposition",
+      "Conjunction",
+      "Interjection",
+      "Adverb"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "The time and place where a story happens is known as the:",
+    "options": [
+      "Plot",
+      "Character",
+      "Setting",
+      "Theme"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "Change to indirect speech: He said, 'I am busy.'",
+    "options": [
+      "He said that he is busy.",
+      "He said that I was busy.",
+      "He said that he was busy.",
+      "He says that he was busy."
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "Which of these is a type of noun referring to a specific person, place, or thing and starts with a capital letter?",
+    "options": [
+      "Common Noun",
+      "Proper Noun",
+      "Abstract Noun",
+      "Collective Noun"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "What does the abbreviation 'e.g.' stand for?",
+    "options": [
+      "And so on",
+      "For example",
+      "That is",
+      "Approximately"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "The sequence of events in a story is called the:",
+    "options": [
+      "Theme",
+      "Plot",
+      "Setting",
+      "Conflict"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "Choose the word that is spelled correctly:",
+    "options": [
+      "Febuary",
+      "Feburary",
+      "February",
+      "Febuary"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "A word that shows strong emotion, like 'Wow!' or 'Ouch!', is an:",
+    "options": [
+      "Adverb",
+      "Preposition",
+      "Conjunction",
+      "Interjection"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "Which sentence uses the past perfect tense correctly?",
+    "options": [
+      "She has finished her work before I arrived.",
+      "She had finished her work before I arrived.",
+      "She finished her work before I had arrived.",
+      "She will finish her work before I arrived."
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "The main message or lesson in a story is its:",
+    "options": [
+      "Plot",
+      "Setting",
+      "Character",
+      "Theme"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "Which word is a CONCRETE NOUN (something you can touch)?",
+    "options": [
+      "Happiness",
+      "Idea",
+      "Book",
+      "Bravery"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "What is the comparative form of the adjective 'good'?",
+    "options": [
+      "Gooder",
+      "More good",
+      "Best",
+      "Better"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "The part of a formal letter that contains your address and the date is the:",
+    "options": [
+      "Salutation",
+      "Body",
+      "Writer's Address",
+      "Closing"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "Giving human qualities to non-human things is called:",
+    "options": [
+      "Simile",
+      "Metaphor",
+      "Personification",
+      "Alliteration"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "Choose the correct article: 'She saw ___ elephant at the zoo.'",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "some"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "The struggle or problem in a story is known as the:",
+    "options": [
+      "Resolution",
+      "Climax",
+      "Conflict",
+      "Exposition"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "Which of these is an example of an abstract noun?",
+    "options": [
+      "Table",
+      "Chair",
+      "Love",
+      "River"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "The salutation in an informal letter to a friend could be:",
+    "options": [
+      "Dear Sir,",
+      "To Whom It May Concern,",
+      "Dear Ama,",
+      "Yours faithfully,"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "Identify the type of sentence: 'The cat slept on the mat.'",
+    "options": [
+      "Interrogative",
+      "Imperative",
+      "Exclamatory",
+      "Declarative"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "'The rain in Spain falls mainly on the plain' is an example of:",
+    "options": [
+      "Onomatopoeia",
+      "Assonance",
+      "Metaphor",
+      "Simile"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "Which part of speech modifies a noun or pronoun?",
+    "options": [
+      "Verb",
+      "Adverb",
+      "Adjective",
+      "Preposition"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "The most exciting part of a story, or the turning point, is the:",
+    "options": [
+      "Exposition",
+      "Rising Action",
+      "Climax",
+      "Falling Action"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "A word that sounds like the noise it describes (e.g., 'buzz', 'hiss') is called:",
+    "options": [
+      "Simile",
+      "Metaphor",
+      "Onomatopoeia",
+      "Alliteration"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "In active voice, the subject _______ the action.",
+    "options": [
+      "receives",
+      "performs",
+      "is unaware of",
+      "is described by"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "Which sentence is in the passive voice?",
+    "options": [
+      "The boy kicked the ball.",
+      "The ball was kicked by the boy.",
+      "The girl is reading a book.",
+      "They are playing games."
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "A group of words that contains a subject and a verb and expresses a complete thought is a:",
+    "options": [
+      "Phrase",
+      "Clause",
+      "Sentence",
+      "Paragraph"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "The repetition of initial consonant sounds in words close together (e.g., 'Peter Piper picked') is:",
+    "options": [
+      "Assonance",
+      "Consonance",
+      "Alliteration",
+      "Rhyme"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "Which of these is a subordinating conjunction?",
+    "options": [
+      "and",
+      "but",
+      "or",
+      "although"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "The ending of a story where the conflict is resolved is called the:",
+    "options": [
+      "Climax",
+      "Exposition",
+      "Resolution",
+      "Rising Action"
+    ],
+    "correctAnswerIndex": 2
+  }
+]

@@ -1,0 +1,522 @@
+[
+  {
+    "questionText": "What are the three primary colours?",
+    "options": [
+      "Red, Yellow, Blue",
+      "Red, Green, Violet",
+      "Orange, Green, Purple",
+      "Black, White, Grey"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "Mixing red and yellow paint gives you which secondary colour?",
+    "options": [
+      "Green",
+      "Purple",
+      "Orange",
+      "Brown"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "Which of these is a Ghanaian traditional cloth known for its intricate patterns?",
+    "options": [
+      "Denim",
+      "Silk",
+      "Kente",
+      "Linen"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "The act of making objects from clay is called:",
+    "options": [
+      "Weaving",
+      "Sculpture",
+      "Pottery",
+      "Origami"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "In music, what does 'tempo' refer to?",
+    "options": [
+      "How loud or soft the music is",
+      "The speed of the music",
+      "The highness or lowness of a sound",
+      "The instruments used"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "Which Ghanaian traditional dance often involves intricate footwork and storytelling?",
+    "options": [
+      "Azonto",
+      "Adowa",
+      "Hip-hop",
+      "Ballet"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "A picture made by sticking different materials like paper or fabric onto a surface is called a:",
+    "options": [
+      "Painting",
+      "Drawing",
+      "Collage",
+      "Print"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "What element of art refers to the way a surface feels or looks like it would feel?",
+    "options": [
+      "Line",
+      "Shape",
+      "Colour",
+      "Texture"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "The traditional talking drum of Ghana is often called the:",
+    "options": [
+      "Atumpan",
+      "Guitar",
+      "Piano",
+      "Flute"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "Which of these is NOT an element of drama?",
+    "options": [
+      "Plot",
+      "Character",
+      "Paintbrush",
+      "Dialogue"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "Warm colours are typically associated with:",
+    "options": [
+      "Sky and water",
+      "Sun and fire",
+      "Forests and grass",
+      "Night and shadows"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "A pattern made by repeating a shape or design is called:",
+    "options": [
+      "A portrait",
+      "A landscape",
+      "A motif",
+      "A still life"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "Which type of line is often used to show calmness or rest?",
+    "options": [
+      "Zigzag line",
+      "Diagonal line",
+      "Horizontal line",
+      "Curved line"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "The art of folding paper to create decorative shapes and figures is known as:",
+    "options": [
+      "Origami",
+      "Macramé",
+      "Quilting",
+      "Calligraphy"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "In Ghanaian culture, Adinkra symbols are used to convey:",
+    "options": [
+      "Recipes",
+      "Mathematical formulas",
+      "Proverbs and concepts",
+      "Weather forecasts"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "What is the term for the lightness or darkness of a colour?",
+    "options": [
+      "Hue",
+      "Saturation",
+      "Value",
+      "Intensity"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "A drawing or painting of a person is called a:",
+    "options": [
+      "Landscape",
+      "Still life",
+      "Portrait",
+      "Abstract"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "Which of these is a type of printmaking?",
+    "options": [
+      "Singing",
+      "Acting",
+      "Lino cutting",
+      "Dancing"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "The main melody in a piece of music is called the:",
+    "options": [
+      "Harmony",
+      "Rhythm",
+      "Tune",
+      "Beat"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "What material is commonly used for traditional Ghanaian wood carving?",
+    "options": [
+      "Plastic",
+      "Metal",
+      "Wood",
+      "Glass"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "The 'stage' in a theatre is where:",
+    "options": [
+      "The audience sits",
+      "Musicians play",
+      "Actors perform",
+      "Tickets are sold"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "Colours that are opposite each other on the colour wheel are called:",
+    "options": [
+      "Analogous colours",
+      "Primary colours",
+      "Complementary colours",
+      "Neutral colours"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "Which Ghanaian festival is known for its vibrant display of culture, including drumming and dancing?",
+    "options": [
+      "Christmas",
+      "Homowo",
+      "Easter",
+      "Halloween"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "The process of creating designs by stitching onto fabric is called:",
+    "options": [
+      "Painting",
+      "Embroidery",
+      "Sculpting",
+      "Printing"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "What does a 'sculpture in the round' mean?",
+    "options": [
+      "It's a flat sculpture",
+      "It can be viewed from all sides",
+      "It's made of circles",
+      "It's a relief sculpture"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "Which musical instrument family does the xylophone belong to?",
+    "options": [
+      "String",
+      "Brass",
+      "Woodwind",
+      "Percussion"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "In design, 'balance' refers to:",
+    "options": [
+      "How colourful something is",
+      "The visual weight of elements",
+      "How loud the music is",
+      "The speed of a dance"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "A traditional Ghanaian stool often symbolizes:",
+    "options": [
+      "Wealth only",
+      "A place to eat",
+      "Authority and identity",
+      "A farming tool"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "What is 'tie and dye'?",
+    "options": [
+      "A type of musical instrument",
+      "A method of decorating fabric by tying sections and dyeing it",
+      "A dramatic performance",
+      "A type of brush used in painting"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "The highness or lowness of a musical sound is called:",
+    "options": [
+      "Pitch",
+      "Rhythm",
+      "Tempo",
+      "Dynamics"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "What is a 'still life' in art?",
+    "options": [
+      "A painting of a moving animal",
+      "An arrangement of inanimate objects as a subject",
+      "A sculpture of a famous person",
+      "A fast-paced dance"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "The 'Gye Nyame' Adinkra symbol broadly means:",
+    "options": [
+      "Beauty and cleanliness",
+      "Strength and bravery",
+      "Except God (Supremacy of God)",
+      "War and conflict"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "Which of these is a traditional Ghanaian storytelling form, often accompanied by music?",
+    "options": [
+      "Opera",
+      "Anansesem (Ananse Stories)",
+      "Ballet",
+      "Sonnet"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "The technique of shading used to create a sense of depth and form is called:",
+    "options": [
+      "Outlining",
+      "Colouring",
+      "Rendering",
+      "Doodling"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "What is the term for a group of singers performing together?",
+    "options": [
+      "Soloist",
+      "Orchestra",
+      "Choir",
+      "Band"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "In visual arts, 'perspective' helps to create the illusion of:",
+    "options": [
+      "Flatness",
+      "Texture",
+      "Depth and distance",
+      "Bright colours"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "Which of these is a common material for making traditional Ghanaian beads?",
+    "options": [
+      "Plastic",
+      "Glass",
+      "Metal",
+      "All of the above"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "A play that is funny and has a happy ending is usually called a:",
+    "options": [
+      "Tragedy",
+      "Melodrama",
+      "Comedy",
+      "Documentary"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "What are 'folk songs'?",
+    "options": [
+      "Songs written by famous pop stars",
+      "Traditional songs passed down through generations",
+      "Songs only played on the radio",
+      "Instrumental music without lyrics"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "The art of beautiful handwriting is called:",
+    "options": [
+      "Typography",
+      "Calligraphy",
+      "Graffiti",
+      "Sketching"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "What is the purpose of a 'costume' in drama?",
+    "options": [
+      "To keep actors warm",
+      "To help actors remember lines",
+      "To help define a character and setting",
+      "To serve as a prop"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "Mixing blue and yellow paint gives you which secondary colour?",
+    "options": [
+      "Purple",
+      "Orange",
+      "Green",
+      "Brown"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "A 'silhouette' in art is typically:",
+    "options": [
+      "A detailed colourful portrait",
+      "An outline of a shape filled with a solid colour, often black",
+      "A sculpture made of light",
+      "A piece of music"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "Which element of music refers to the pattern of sounds and silences?",
+    "options": [
+      "Melody",
+      "Harmony",
+      "Rhythm",
+      "Pitch"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "The craft of making items by interlacing threads is called:",
+    "options": [
+      "Pottery",
+      "Weaving",
+      "Carving",
+      "Welding"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "Which of these is a famous Ghanaian contemporary artist known for bottle-top installations?",
+    "options": [
+      "Ablade Glover",
+      "Owusu-Ankomah",
+      "El Anatsui",
+      "Kofi Agorsor"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "The term 'ceramics' generally refers to objects made from:",
+    "options": [
+      "Wood",
+      "Metal",
+      "Clay and fired",
+      "Fabric"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "A dance that tells a story is often called a:",
+    "options": [
+      "Social dance",
+      "Narrative dance",
+      "Aerobic dance",
+      "Freestyle dance"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "The 'vanishing point' in a perspective drawing is where:",
+    "options": [
+      "Colours are mixed",
+      "The drawing begins",
+      "Parallel lines appear to converge",
+      "The artist signs their name"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "What is the primary function of a 'prop' in a play?",
+    "options": [
+      "To provide music",
+      "An object used by actors on stage",
+      "The main storyline",
+      "The lighting design"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "Which of these Adinkra symbols represents 'democracy' or 'presence of a council'?",
+    "options": [
+      "Gye Nyame",
+      "Sankofa",
+      "Boa Me Na Me Mmoa Wo",
+      "Mate Masie"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "The process of designing and arranging dance movements is called:",
+    "options": [
+      "Singing",
+      "Choreography",
+      "Sculpting",
+      "Directing"
+    ],
+    "correctAnswerIndex": 1
+  }
+]

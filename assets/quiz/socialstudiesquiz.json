@@ -1,0 +1,502 @@
+[
+  {
+    "questionText": "Who was the first President of Ghana?",
+    "options": [
+      "J.B. Danquah",
+      "Kwame Nkrumah",
+      "Kofi Annan",
+      "Jerry John Rawlings"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "Ghana gained independence from which colonial power?",
+    "options": [
+      "France",
+      "Portugal",
+      "Great Britain",
+      "Germany"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "In what year did Ghana gain its independence?",
+    "options": [
+      "1951",
+      "1957",
+      "1960",
+      "1966"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "What is the capital city of Ghana?",
+    "options": [
+      "Kumasi",
+      "Takoradi",
+      "Accra",
+      "Tamale"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "The system of government practiced in Ghana is:",
+    "options": [
+      "Monarchy",
+      "Dictatorship",
+      "Democracy",
+      "Communism"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "What are the national colours of Ghana?",
+    "options": [
+      "Red, Gold, Green",
+      "Blue, White, Red",
+      "Green, White, Orange",
+      "Black, Yellow, Red"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "The head of state in Ghana is the:",
+    "options": [
+      "Prime Minister",
+      "Chief Justice",
+      "President",
+      "Speaker of Parliament"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "Which of these is a major river in Ghana?",
+    "options": [
+      "River Nile",
+      "River Volta",
+      "River Niger",
+      "River Congo"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "The Ghanaian currency is called the:",
+    "options": [
+      "Naira",
+      "Dollar",
+      "Cedi",
+      "Franc"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "What is the main legislative body (law-making body) in Ghana?",
+    "options": [
+      "The Judiciary",
+      "The Cabinet",
+      "Parliament",
+      "The Council of State"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "Which Ghanaian festival is celebrated by the Ga people to hoot at hunger?",
+    "options": [
+      "Hogbetsotso",
+      "Aboakyer",
+      "Homowo",
+      "Damba"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "The right to vote in Ghana is typically granted at what age?",
+    "options": [
+      "16 years",
+      "18 years",
+      "21 years",
+      "25 years"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "Which of these is a civic responsibility of a Ghanaian citizen?",
+    "options": [
+      "Refusing to pay taxes",
+      "Participating in elections",
+      "Disobeying laws",
+      "Damaging public property"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "The Akan people of Ghana are known for which traditional symbol of kingship?",
+    "options": [
+      "The Golden Stool",
+      "The Sword of Power",
+      "The Royal Crown",
+      "The Talking Drum"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "What is the name of the large man-made lake in Ghana, one of the largest in the world?",
+    "options": [
+      "Lake Bosomtwe",
+      "Lake Chad",
+      "Lake Victoria",
+      "Lake Volta"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "The system where people exchange goods for goods without using money is called:",
+    "options": [
+      "Banking",
+      "Credit system",
+      "Barter trade",
+      "Monetary system"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "Which Ghanaian statesman is known for his role in the United Nations and as a former Secretary-General?",
+    "options": [
+      "Kwame Nkrumah",
+      "John Kufuor",
+      "Kofi Annan",
+      "Jerry John Rawlings"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "The highest court in Ghana is the:",
+    "options": [
+      "High Court",
+      "Circuit Court",
+      "Supreme Court",
+      "Magistrate Court"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "Which of these is a major export crop of Ghana?",
+    "options": [
+      "Wheat",
+      "Apples",
+      "Cocoa",
+      "Rice"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "The term 'Constitution' refers to:",
+    "options": [
+      "A history book",
+      "The supreme law of a country",
+      "A collection of folk tales",
+      "A list of national holidays"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "Which continent is Ghana located in?",
+    "options": [
+      "Asia",
+      "Europe",
+      "Africa",
+      "South America"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "What does ECOWAS stand for?",
+    "options": [
+      "Economic Community of West African States",
+      "Eastern Council of West African States",
+      "Economic Council of Western African Societies",
+      "European Community of West African States"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "The traditional ruler of the Asante kingdom is known as the:",
+    "options": [
+      "Ga Mantse",
+      "Ya-Na",
+      "Asantehene",
+      "Togbe"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "What is the importance of 'paying taxes' for a nation?",
+    "options": [
+      "It is optional",
+      "It helps the government provide public services",
+      "It only benefits the rich",
+      "It is a form of punishment"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "Which of these is a symbol on the Ghanaian Coat of Arms representing agriculture?",
+    "options": [
+      "A mining shaft",
+      "A castle",
+      "Cocoa tree and crossed swords",
+      "A fishing boat"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "The concept of 'human rights' means:",
+    "options": [
+      "Rights only for adults",
+      "Rights only for citizens",
+      "Fundamental rights and freedoms all people are entitled to",
+      "Privileges for government officials"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "Which Ghanaian region is known for the Kakum National Park and its canopy walkway?",
+    "options": [
+      "Greater Accra Region",
+      "Ashanti Region",
+      "Central Region",
+      "Volta Region"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "The process of electing leaders through voting is a key feature of:",
+    "options": [
+      "Autocracy",
+      "Democracy",
+      "Oligarchy",
+      "Theocracy"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "What is the term for a person who moves from their home country to live permanently in another country?",
+    "options": [
+      "Tourist",
+      "Refugee",
+      "Immigrant",
+      "Expatriate"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "The Mole National Park in Ghana is primarily known for its:",
+    "options": [
+      "Birdlife",
+      "Marine life",
+      "Elephants and other wildlife",
+      "Mountain scenery"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "Who is the head of government at the local district level in Ghana?",
+    "options": [
+      "Member of Parliament",
+      "District Chief Executive (DCE)",
+      "Regional Minister",
+      "Assembly Member"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "The historical slave trade castles like Elmina and Cape Coast are located in which region of Ghana?",
+    "options": [
+      "Northern Region",
+      "Central Region",
+      "Western Region",
+      "Eastern Region"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "What does 'UN' stand for?",
+    "options": [
+      "United Nations",
+      "Universal Network",
+      "United Nominees",
+      "Union of Nations"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "A map is best defined as:",
+    "options": [
+      "A photograph of a place",
+      "A drawing representing an area of land or sea showing physical features",
+      "A story about a location",
+      "A list of directions"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "Which of these is a natural resource found in Ghana and important for its economy?",
+    "options": [
+      "Diamonds",
+      "Gold",
+      "Oil",
+      "All of the above"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "The term 'culture' generally refers to:",
+    "options": [
+      "Only traditional dances",
+      "The way of life of a group of people (beliefs, customs, arts)",
+      "The language spoken by a group",
+      "The type of food people eat"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "What is the significance of the Black Star in the Ghanaian flag?",
+    "options": [
+      "Represents the night sky",
+      "Represents the star of Africa's freedom",
+      "Represents a famous landmark",
+      "Represents a constellation"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "The judiciary branch of government is responsible for:",
+    "options": [
+      "Making laws",
+      "Enforcing laws",
+      "Interpreting laws and administering justice",
+      "Running the country's finances"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "Which major line of latitude passes through Ghana, close to Tema?",
+    "options": [
+      "Tropic of Cancer",
+      "Equator",
+      "Greenwich Meridian (Prime Meridian)",
+      "Tropic of Capricorn"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "A family made up of father, mother, and their children is called a:",
+    "options": [
+      "Extended family",
+      "Nuclear family",
+      "Compound family",
+      "Royal family"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "The process of producing goods and services is known as:",
+    "options": [
+      "Consumption",
+      "Distribution",
+      "Production",
+      "Marketing"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "What is the main role of an 'entrepreneur'?",
+    "options": [
+      "To work for the government",
+      "To start and manage a business, taking on financial risks",
+      "To enforce laws",
+      "To teach in a school"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "Which of these institutions helps to maintain peace and security among nations?",
+    "options": [
+      "World Bank",
+      "United Nations (UN)",
+      "World Trade Organization (WTO)",
+      "International Monetary Fund (IMF)"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "The concept of 'separation of powers' in government means:",
+    "options": [
+      "One person holds all power",
+      "Power is shared between the central government and regional governments",
+      "Governmental powers are divided among different branches (e.g., legislative, executive, judicial)",
+      "The military controls the government"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "The Aboakyer festival, involving a deer hunt, is celebrated by the people of:",
+    "options": [
+      "Accra",
+      "Kumasi",
+      "Winneba",
+      "Ho"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "What is a 'budget' in financial terms?",
+    "options": [
+      "A loan from a bank",
+      "A plan for how to spend and save money over a period",
+      "The total amount of money earned",
+      "A tax paid to the government"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "Which Ghanaian ethnic group is largely associated with the Northern Region and the Damba festival?",
+    "options": [
+      "Ewe",
+      "Akan",
+      "Ga-Adangbe",
+      "Dagomba"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "Protecting the environment is important because:",
+    "options": [
+      "It only benefits animals",
+      "It provides resources and supports life",
+      "It is a task for the government only",
+      "It is not a major concern"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "The term 'globalization' refers to:",
+    "options": [
+      "Focusing only on local issues",
+      "The increasing interconnectedness of countries through trade, culture, and technology",
+      "The study of globes and maps",
+      "A type of international conflict"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "Which body in Ghana is responsible for conducting and supervising elections?",
+    "options": [
+      "The Police Service",
+      "The Judiciary",
+      "The Electoral Commission (EC)",
+      "The Parliament"
+    ],
+    "correctAnswerIndex": 2
+  }
+]

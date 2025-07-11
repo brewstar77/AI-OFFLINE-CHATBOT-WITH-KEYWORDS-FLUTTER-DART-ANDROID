@@ -1,0 +1,522 @@
+[
+  {
+    "questionText": "What is the place value of 7 in the number 27,458?",
+    "options": [
+      "Tens",
+      "Hundreds",
+      "Thousands",
+      "Ten Thousands"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "Calculate: 125 + 347",
+    "options": [
+      "462",
+      "472",
+      "482",
+      "572"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "Calculate: 508 - 289",
+    "options": [
+      "209",
+      "219",
+      "229",
+      "319"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "What is 15 multiplied by 6?",
+    "options": [
+      "70",
+      "80",
+      "90",
+      "100"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "What is 72 divided by 8?",
+    "options": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "Which of these fractions is equivalent to 1/2?",
+    "options": [
+      "2/3",
+      "3/4",
+      "4/8",
+      "5/9"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "Convert the mixed number 2 1/3 into an improper fraction.",
+    "options": [
+      "3/2",
+      "5/3",
+      "7/3",
+      "6/3"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "What is 0.5 as a fraction in its simplest form?",
+    "options": [
+      "1/5",
+      "1/2",
+      "5/100",
+      "2/5"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "Express 25% as a decimal.",
+    "options": [
+      "0.025",
+      "0.25",
+      "2.5",
+      "25.0"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "If x + 5 = 12, what is the value of x?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "17"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "How many sides does a triangle have?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "What is the perimeter of a rectangle with length 8 cm and width 5 cm?",
+    "options": [
+      "13 cm",
+      "26 cm",
+      "40 cm",
+      "30 cm"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "What is the area of a square with side length 6 cm?",
+    "options": [
+      "12 cm²",
+      "24 cm²",
+      "30 cm²",
+      "36 cm²"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "A bar chart shows the favorite fruits of students: Apples - 10, Bananas - 15, Oranges - 5. Which fruit is the most popular?",
+    "options": [
+      "Apples",
+      "Bananas",
+      "Oranges",
+      "All are equal"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "What is the next number in the sequence: 2, 4, 6, 8, ___?",
+    "options": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "Find the sum of 1/4 and 2/4.",
+    "options": [
+      "1/4",
+      "3/8",
+      "3/4",
+      "1/2"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "Calculate 50% of 80.",
+    "options": [
+      "20",
+      "30",
+      "40",
+      "50"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "A shape with 5 equal sides is called a:",
+    "options": [
+      "Square",
+      "Rectangle",
+      "Pentagon",
+      "Hexagon"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "If a dozen eggs cost GHC 12, what is the cost of one egg?",
+    "options": [
+      "GHC 0.50",
+      "GHC 1.00",
+      "GHC 1.50",
+      "GHC 2.00"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "What is the value of 3² (3 squared)?",
+    "options": [
+      "5",
+      "6",
+      "9",
+      "32"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "Round 347 to the nearest ten.",
+    "options": [
+      "300",
+      "340",
+      "350",
+      "400"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "How many millimeters are in 1 centimeter?",
+    "options": [
+      "1",
+      "10",
+      "100",
+      "1000"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "If 3y = 21, what is y?",
+    "options": [
+      "3",
+      "6",
+      "7",
+      "18"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "What type of angle is exactly 90 degrees?",
+    "options": [
+      "Acute angle",
+      "Obtuse angle",
+      "Right angle",
+      "Reflex angle"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "Find the average (mean) of these numbers: 4, 6, 8.",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "What is the term for a number that can only be divided by 1 and itself?",
+    "options": [
+      "Even number",
+      "Odd number",
+      "Prime number",
+      "Composite number"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "Convert 0.75 to a percentage.",
+    "options": [
+      "7.5%",
+      "0.75%",
+      "75%",
+      "750%"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "If a movie starts at 2:30 PM and lasts for 1 hour 45 minutes, what time does it end?",
+    "options": [
+      "3:15 PM",
+      "4:00 PM",
+      "4:15 PM",
+      "4:30 PM"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "A circle has a diameter of 10 cm. What is its radius?",
+    "options": [
+      "5 cm",
+      "10 cm",
+      "15 cm",
+      "20 cm"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "Simplify the ratio 10:15.",
+    "options": [
+      "1:2",
+      "2:3",
+      "3:4",
+      "5:3"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "If Kofi has 'x' mangoes and Ama has 5 more mangoes than Kofi, how many mangoes does Ama have in terms of x?",
+    "options": [
+      "x - 5",
+      "5x",
+      "x + 5",
+      "5 - x"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "How many faces does a cube have?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "8"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "Calculate: (10 + 5) × 2",
+    "options": [
+      "20",
+      "25",
+      "30",
+      "17"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "What is the Lowest Common Multiple (LCM) of 4 and 6?",
+    "options": [
+      "2",
+      "4",
+      "12",
+      "24"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "If an item costing GHC 50 is sold with a 10% discount, what is the discount amount?",
+    "options": [
+      "GHC 1",
+      "GHC 5",
+      "GHC 10",
+      "GHC 40"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "What is the Roman numeral for 10?",
+    "options": [
+      "V",
+      "X",
+      "L",
+      "C"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "How many degrees are in a straight line?",
+    "options": [
+      "45°",
+      "90°",
+      "180°",
+      "360°"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "If you buy 3 pens at GHC 2.50 each, what is the total cost?",
+    "options": [
+      "GHC 5.50",
+      "GHC 6.50",
+      "GHC 7.00",
+      "GHC 7.50"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "What is the area of a triangle with base 10 cm and height 6 cm? (Area = 1/2 × base × height)",
+    "options": [
+      "15 cm²",
+      "30 cm²",
+      "60 cm²",
+      "16 cm²"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "Convert 3/5 to a decimal.",
+    "options": [
+      "0.3",
+      "0.5",
+      "0.6",
+      "3.5"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "What is the probability of flipping a fair coin and getting heads?",
+    "options": [
+      "0",
+      "1/4",
+      "1/2",
+      "1"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "A 3D shape with a circular base and a pointed top is called a:",
+    "options": [
+      "Cylinder",
+      "Sphere",
+      "Cone",
+      "Pyramid"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "If a car travels 120 km in 2 hours, what is its average speed?",
+    "options": [
+      "40 km/h",
+      "50 km/h",
+      "60 km/h",
+      "240 km/h"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "What is the sum of angles in a triangle?",
+    "options": [
+      "90°",
+      "180°",
+      "270°",
+      "360°"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "Find the value of 2x + 3 if x = 4.",
+    "options": [
+      "8",
+      "10",
+      "11",
+      "14"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "What is the Highest Common Factor (HCF) of 12 and 18?",
+    "options": [
+      "2",
+      "3",
+      "6",
+      "12"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "If a shirt is priced at GHC 80 and is sold for GHC 72, what is the discount given?",
+    "options": [
+      "GHC 2",
+      "GHC 8",
+      "GHC 10",
+      "GHC 18"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "How many vertices (corners) does a cuboid have?",
+    "options": [
+      "4",
+      "6",
+      "8",
+      "12"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "Write 0.05 as a fraction.",
+    "options": [
+      "1/2",
+      "1/5",
+      "1/20",
+      "5/10"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "What is the mode of the following set of numbers: 2, 3, 3, 4, 5, 5, 5, 6?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "A recipe needs 2 cups of flour for 1 cake. How many cups are needed for 3 cakes?",
+    "options": [
+      "2 cups",
+      "3 cups",
+      "5 cups",
+      "6 cups"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "A regular hexagon has how many lines of symmetry?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correctAnswerIndex": 3
+  }
+]

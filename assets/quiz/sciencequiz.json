@@ -1,0 +1,303 @@
+[
+  {
+    "questionText": "Which part of a plant is primarily responsible for photosynthesis?",
+    "options": ["Roots", "Stem", "Leaves", "Flower"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "What gas do humans breathe out during respiration?",
+"options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
+"correctAnswerIndex": 2
+},
+{
+"questionText": "The process by which water changes into water vapour is called:",
+"options": ["Condensation", "Evaporation", "Freezing", "Melting"],
+"correctAnswerIndex": 1
+},
+{
+"questionText": "Which of these is a source of renewable energy?",
+"options": ["Coal", "Petroleum", "Natural Gas", "Sunlight"],
+"correctAnswerIndex": 3
+},
+{
+"questionText": "What is the chemical symbol for water?",
+"options": ["O2", "CO2", "H2O", "NaCl"],
+"correctAnswerIndex": 2
+},
+{
+"questionText": "The force that pulls objects towards the center of the Earth is called:",
+"options": ["Magnetism", "Friction", "Gravity", "Tension"],
+"correctAnswerIndex": 2
+},
+{
+"questionText": "Which organ in the human body is responsible for pumping blood?",
+"options": ["Lungs", "Brain", "Heart", "Liver"],
+"correctAnswerIndex": 2
+},
+{
+"questionText": "Animals that eat only plants are called:",
+"options": ["Carnivores", "Herbivores", "Omnivores", "Decomposers"],
+"correctAnswerIndex": 1
+},
+{
+"questionText": "What are the three states of matter?",
+"options": [
+"Solid, Liquid, Gas",
+"Hard, Soft, Spongy",
+"Hot, Cold, Warm",
+"Metal, Wood, Plastic"
+],
+"correctAnswerIndex": 0
+},
+{
+"questionText": "Which planet is known as the 'Red Planet'?",
+"options": ["Earth", "Mars", "Jupiter", "Venus"],
+"correctAnswerIndex": 1
+},
+{
+"questionText": "The breaking down of rocks into smaller particles is called:",
+"options": ["Erosion", "Weathering", "Deposition", "Volcanism"],
+"correctAnswerIndex": 1
+},
+{
+"questionText": "What part of the flower develops into a fruit after fertilization?",
+"options": ["Petal", "Sepal", "Stamen", "Ovary"],
+"correctAnswerIndex": 3
+},
+{
+"questionText": "A substance that dissolves in a liquid is called a:",
+"options": ["Solvent", "Solute", "Solution", "Suspension"],
+"correctAnswerIndex": 1
+},
+{
+"questionText": "Which of these is a disease caused by a virus?",
+"options": ["Malaria", "Common Cold", "Cholera", "Typhoid"],
+"correctAnswerIndex": 1
+},
+{
+"questionText": "The main gas that makes up most of the Earth's atmosphere is:",
+"options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Argon"],
+"correctAnswerIndex": 2
+},
+{
+"questionText": "What unit is used to measure electric current?",
+"options": ["Volt", "Watt", "Ohm", "Ampere"],
+"correctAnswerIndex": 3
+},
+{
+"questionText": "The process by which plants make their own food is called:",
+"options": ["Respiration", "Transpiration", "Photosynthesis", "Germination"],
+"correctAnswerIndex": 2
+},
+{
+"questionText": "Which of these is a good conductor of electricity?",
+"options": ["Wood", "Plastic", "Copper", "Rubber"],
+"correctAnswerIndex": 2
+},
+{
+"questionText": "What is the hardest natural substance found on Earth?",
+"options": ["Gold", "Iron", "Diamond", "Quartz"],
+"correctAnswerIndex": 2
+},
+{
+"questionText": "The control center of a living cell is the:",
+"options": ["Mitochondria", "Cytoplasm", "Nucleus", "Cell membrane"],
+"correctAnswerIndex": 2
+},
+{
+"questionText": "What causes tides in the oceans?",
+"options": [
+"Wind",
+"Earth's rotation and Sun's heat",
+"Moon's gravitational pull",
+"Underwater earthquakes"
+],
+"correctAnswerIndex": 2
+},
+{
+"questionText": "A change from liquid to solid is called:",
+"options": ["Melting", "Boiling", "Freezing", "Condensation"],
+"correctAnswerIndex": 2
+},
+{
+"questionText": "Which of these is NOT a sense organ?",
+"options": ["Eyes", "Nose", "Bones", "Skin"],
+"correctAnswerIndex": 2
+},
+{
+"questionText": "What instrument is used to measure temperature?",
+"options": ["Barometer", "Thermometer", "Anemometer", "Hygrometer"],
+"correctAnswerIndex": 1
+},
+{
+"questionText": "Plants absorb water and nutrients from the soil through their:",
+"options": ["Leaves", "Stem", "Flowers", "Roots"],
+"correctAnswerIndex": 3
+},
+{
+"questionText": "Which system in the human body is responsible for breaking down food?",
+"options": [
+"Respiratory system",
+"Circulatory system",
+"Digestive system",
+"Nervous system"
+],
+"correctAnswerIndex": 2
+},
+{
+"questionText": "Sound is produced by:",
+"options": ["Light", "Heat", "Vibrations", "Chemical reactions"],
+"correctAnswerIndex": 2
+},
+{
+"questionText": "A balanced diet should contain adequate amounts of:",
+"options": [
+"Only carbohydrates",
+"Only proteins",
+"Carbohydrates, proteins, fats, vitamins, and minerals",
+"Only fats and sugars"
+],
+"correctAnswerIndex": 2
+},
+{
+"questionText": "What is the common name for Sodium Chloride (NaCl)?",
+"options": ["Sugar", "Vinegar", "Baking Soda", "Table Salt"],
+"correctAnswerIndex": 3
+},
+{
+"questionText": "The movement of the Earth around the Sun is called:",
+"options": ["Rotation", "Revolution", "Orbiting", "Spinning"],
+"correctAnswerIndex": 1
+},
+{
+"questionText": "Which of these metals is attracted to a magnet?",
+"options": ["Aluminium", "Copper", "Iron", "Gold"],
+"correctAnswerIndex": 2
+},
+{
+"questionText": "What is the primary function of the lungs?",
+"options": [
+"Pumping blood",
+"Digesting food",
+"Filtering waste",
+"Gas exchange (breathing)"
+],
+"correctAnswerIndex": 3
+},
+{
+"questionText": "Which of these is a communicable disease (can spread from person to person)?",
+"options": ["Diabetes", "Influenza (Flu)", "Asthma", "High blood pressure"],
+"correctAnswerIndex": 1
+},
+{
+"questionText": "The green pigment in plants that captures sunlight is called:",
+"options": ["Chlorophyll", "Carotene", "Xanthophyll", "Anthocyanin"],
+"correctAnswerIndex": 0
+},
+{
+"questionText": "What type of simple machine is a pair of scissors an example of?",
+"options": ["Lever", "Pulley", "Inclined Plane", "Wheel and Axle"],
+"correctAnswerIndex": 0
+},
+{
+"questionText": "The layer of gases surrounding the Earth is called the:",
+"options": ["Hydrosphere", "Lithosphere", "Atmosphere", "Biosphere"],
+"correctAnswerIndex": 2
+},
+{
+"questionText": "Which part of the blood is responsible for fighting infections?",
+"options": [
+"Red blood cells",
+"White blood cells",
+"Platelets",
+"Plasma"
+],
+"correctAnswerIndex": 1
+},
+{
+"questionText": "An organism that breaks down dead plants and animals is a:",
+"options": ["Producer", "Consumer", "Decomposer", "Predator"],
+"correctAnswerIndex": 2
+},
+{
+"questionText": "What causes rust on iron objects?",
+"options": [
+"Exposure to sunlight only",
+"Reaction with nitrogen",
+"Reaction with oxygen and water",
+"Contact with acids only"
+],
+"correctAnswerIndex": 2
+},
+{
+"questionText": "Which of these is a characteristic of all living things?",
+"options": [
+"Ability to fly",
+"Having green leaves",
+"Ability to reproduce",
+"Living in water"
+],
+"correctAnswerIndex": 2
+},
+{
+"questionText": "The process of a seed growing into a new plant is called:",
+"options": ["Pollination", "Fertilization", "Germination", "Photosynthesis"],
+"correctAnswerIndex": 2
+},
+{
+"questionText": "What is the main source of energy for most ecosystems on Earth?",
+"options": ["Wind", "Water", "The Sun", "Geothermal heat"],
+"correctAnswerIndex": 2
+},
+{
+"questionText": "Which of these is a fossil fuel?",
+"options": ["Wood", "Solar energy", "Coal", "Wind energy"],
+"correctAnswerIndex": 2
+},
+{
+"questionText": "The force that opposes motion between two surfaces in contact is:",
+"options": ["Gravity", "Magnetism", "Friction", "Tension"],
+"correctAnswerIndex": 2
+},
+{
+"questionText": "What is the boiling point of pure water at sea level?",
+"options": ["0°C", "50°C", "100°C", "212°F"],
+"correctAnswerIndex": 2
+},
+{
+"questionText": "The framework of bones that supports the human body is called the:",
+"options": ["Muscular system", "Nervous system", "Skeleton", "Skin"],
+"correctAnswerIndex": 2
+},
+{
+"questionText": "Which of these helps in the clotting of blood?",
+"options": [
+"Red blood cells",
+"White blood cells",
+"Platelets",
+"Haemoglobin"
+],
+"correctAnswerIndex": 2
+},
+{
+"questionText": "Deficiency of Vitamin C in the diet can lead to which disease?",
+"options": ["Rickets", "Scurvy", "Beriberi", "Night blindness"],
+"correctAnswerIndex": 1
+},
+{
+"questionText": "What is the SI unit for measuring force?",
+"options": ["Joule", "Watt", "Newton", "Pascal"],
+"correctAnswerIndex": 2
+},
+{
+"questionText": "A mixture where one substance is evenly distributed in another, like salt in water, is called a:",
+"options": ["Suspension", "Colloid", "Solution", "Emulsion"],
+"correctAnswerIndex": 2
+},
+{
+"questionText": "Which natural phenomenon involves the shaking of the Earth's surface?",
+"options": ["Hurricane", "Tornado", "Earthquake", "Tsunami"],
+"correctAnswerIndex": 2
+}
+]
+

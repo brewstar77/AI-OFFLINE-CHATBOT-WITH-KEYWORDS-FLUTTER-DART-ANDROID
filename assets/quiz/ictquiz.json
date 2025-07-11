@@ -1,0 +1,512 @@
+[
+  {
+    "questionText": "What does CPU stand for?",
+    "options": [
+      "Central Processing Unit",
+      "Computer Personal Unit",
+      "Central Program Utility",
+      "Computer Power Unit"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "Which of these is an INPUT device?",
+    "options": [
+      "Monitor",
+      "Printer",
+      "Keyboard",
+      "Speaker"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "Which of these is an OUTPUT device?",
+    "options": [
+      "Mouse",
+      "Scanner",
+      "Microphone",
+      "Printer"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "questionText": "What is the main software that runs a computer and manages all other programs?",
+    "options": [
+      "Microsoft Word",
+      "Operating System",
+      "Web Browser",
+      "Anti-virus"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "An example of an Operating System is:",
+    "options": [
+      "Google Chrome",
+      "Microsoft Windows",
+      "Adobe Photoshop",
+      "VLC Player"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "What does 'WWW' stand for in website addresses?",
+    "options": [
+      "World Wide Web",
+      "Wide World Web",
+      "Web World Wide",
+      "World Web Wire"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "To connect to the internet, you typically need a/an:",
+    "options": [
+      "Printer",
+      "Scanner",
+      "Internet Service Provider (ISP)",
+      "Digital Camera"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "Which software is used for typing letters and documents?",
+    "options": [
+      "Spreadsheet program (e.g., Excel)",
+      "Presentation program (e.g., PowerPoint)",
+      "Word processor (e.g., Microsoft Word)",
+      "Database program (e.g., Access)"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "What is a 'browser' used for?",
+    "options": [
+      "Playing music",
+      "Accessing websites on the internet",
+      "Editing photos",
+      "Sending emails"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "An example of a web browser is:",
+    "options": [
+      "Microsoft Outlook",
+      "Mozilla Firefox",
+      "WinRAR",
+      "Notepad"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "What is 'email' short for?",
+    "options": [
+      "Emergency mail",
+      "External mail",
+      "Electronic mail",
+      "Express mail"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "Which of these is important for creating a strong password?",
+    "options": [
+      "Using your date of birth",
+      "Using only lowercase letters",
+      "Using a mix of letters, numbers, and symbols",
+      "Using a common word"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "Software that is designed to harm your computer is called:",
+    "options": [
+      "Utility software",
+      "Freeware",
+      "Malware",
+      "Shareware"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "What does RAM stand for in computing?",
+    "options": [
+      "Read Access Memory",
+      "Random Access Memory",
+      "Run All Memory",
+      "Realtime Access Module"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "Which storage device uses laser technology to read and write data?",
+    "options": [
+      "Hard Disk Drive (HDD)",
+      "USB Flash Drive",
+      "CD/DVD ROM",
+      "Floppy Disk"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "The small pictures on the computer screen that represent programs or files are called:",
+    "options": [
+      "Widgets",
+      "Gadgets",
+      "Icons",
+      "Pixels"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "What is 'cybersafety' primarily concerned with?",
+    "options": [
+      "How fast your internet is",
+      "Keeping your computer clean",
+      "Protecting yourself from online dangers",
+      "Buying things online"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "What is the main function of a 'search engine' like Google?",
+    "options": [
+      "To send emails",
+      "To find information on the World Wide Web",
+      "To play videos",
+      "To create documents"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "A program used to create and edit images is called:",
+    "options": [
+      "A word processor",
+      "A spreadsheet",
+      "A graphics editor",
+      "A database"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "Which of these is a portable storage device?",
+    "options": [
+      "CPU",
+      "Motherboard",
+      "USB Flash Drive",
+      "Internal Hard Drive"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "The 'brain' of the computer is the:",
+    "options": [
+      "Monitor",
+      "Keyboard",
+      "CPU",
+      "RAM"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "Which software is best for calculations and creating charts from data?",
+    "options": [
+      "Microsoft Word",
+      "Microsoft Excel",
+      "Microsoft PowerPoint",
+      "Paint"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "A collection of connected computers that can share resources is called a:",
+    "options": [
+      "Database",
+      "Network",
+      "Modem",
+      "Server"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "What is the process of starting a computer called?",
+    "options": [
+      "Shutting down",
+      "Logging off",
+      "Booting up",
+      "Sleeping"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "Which of these actions helps to protect your computer from viruses?",
+    "options": [
+      "Downloading files from any website",
+      "Opening all email attachments",
+      "Using updated anti-virus software",
+      "Sharing your password"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "A URL (Uniform Resource Locator) is another name for a:",
+    "options": [
+      "File name",
+      "Email address",
+      "Website address",
+      "Password"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "What does 'Wi-Fi' allow you to do?",
+    "options": [
+      "Print documents",
+      "Connect to the internet wirelessly",
+      "Store large files",
+      "Make phone calls only"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "The physical parts of a computer are called:",
+    "options": [
+      "Software",
+      "Hardware",
+      "Malware",
+      "Firmware"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "What is the common file extension for a Microsoft Word document?",
+    "options": [
+      ".xlsx",
+      ".pptx",
+      ".docx",
+      ".jpg"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "A 'file' in computing is:",
+    "options": [
+      "A physical folder",
+      "A collection of related data stored on a computer",
+      "A type of computer virus",
+      "A part of the keyboard"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "What is 'clicking' an action performed with?",
+    "options": [
+      "Keyboard",
+      "Monitor",
+      "Mouse",
+      "Printer"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "Software used for creating presentations with slides is:",
+    "options": [
+      "MS Excel",
+      "MS Word",
+      "MS PowerPoint",
+      "MS Outlook"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "What is 'plagiarism' in the context of ICT?",
+    "options": [
+      "Fixing a computer",
+      "Copying someone else's work and presenting it as your own",
+      "Designing a website",
+      "Installing software"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "Which key on the keyboard is used to erase characters to the left of the cursor?",
+    "options": [
+      "Enter",
+      "Spacebar",
+      "Backspace",
+      "Delete"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "The internet is a global network of:",
+    "options": [
+      "Satellites only",
+      "Computers",
+      "Telephones only",
+      "Television stations"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "What is the function of the 'Shift' key when pressed with a letter key?",
+    "options": [
+      "Deletes the letter",
+      "Makes the letter uppercase",
+      "Adds a space",
+      "Opens a new window"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "A device that converts digital signals to analog signals for transmission over phone lines is a:",
+    "options": [
+      "Router",
+      "Switch",
+      "Modem",
+      "Hub"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "What is a 'folder' or 'directory' used for on a computer?",
+    "options": [
+      "Running programs",
+      "Storing energy",
+      "Organizing files",
+      "Connecting to the internet"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "Which of these is NOT a good practice for online safety?",
+    "options": [
+      "Sharing personal information with strangers online",
+      "Using strong passwords",
+      "Being careful about links you click",
+      "Keeping your software updated"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "The process of copying a file from the internet to your computer is called:",
+    "options": [
+      "Uploading",
+      "Downloading",
+      "Streaming",
+      "Browsing"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "What is the main screen area you see after your computer has started up called?",
+    "options": [
+      "Taskbar",
+      "Start Menu",
+      "Desktop",
+      "Control Panel"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "Which type of software is designed to prevent, detect, and remove malware?",
+    "options": [
+      "Word Processor",
+      "Web Browser",
+      "Anti-virus software",
+      "Spreadsheet program"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "A small, portable computer that is easy to carry around is a:",
+    "options": [
+      "Desktop",
+      "Server",
+      "Laptop",
+      "Mainframe"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "What does ICT stand for?",
+    "options": [
+      "Information and Computer Technology",
+      "Internet and Communication Tools",
+      "Information and Communications Technology",
+      "Internal Computing Terminal"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "The part of the computer that displays output visually is the:",
+    "options": [
+      "Keyboard",
+      "Mouse",
+      "Monitor",
+      "CPU"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "What is 'social media'?",
+    "options": [
+      "A type of computer hardware",
+      "Websites and applications that enable users to create and share content or to participate in social networking",
+      "A software for editing videos",
+      "A way to send letters"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "To save a file means to:",
+    "options": [
+      "Delete it permanently",
+      "Store it for future use",
+      "Print it on paper",
+      "Send it via email"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "A peripheral device is:",
+    "options": [
+      "The main part of the computer",
+      "A device connected to the computer, like a printer or mouse",
+      "A type of software",
+      "An internet connection"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "Which key is often used to get help in software applications?",
+    "options": [
+      "Esc",
+      "F1",
+      "Tab",
+      "Caps Lock"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "What is the common unit for measuring computer memory or storage capacity?",
+    "options": [
+      "Hertz (Hz)",
+      "Volts (V)",
+      "Bytes (e.g., KB, MB, GB)",
+      "Pixels"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "questionText": "Which of these is a risk associated with using public Wi-Fi?",
+    "options": [
+      "Faster internet speed",
+      "Improved computer performance",
+      "Potential for unauthorized access to your data",
+      "Automatic software updates"
+    ],
+    "correctAnswerIndex": 2
+  }
+]
